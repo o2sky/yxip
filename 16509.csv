@@ -1,4 +1,4 @@
 ﻿IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
-13.37.106.51,443,true,CDG,Europe,Paris,180 ms,5220 kB/s
-13.37.224.156,2053,true,CDG,Europe,Paris,176 ms,2969 kB/s
-13.231.236.95,8443,true,NRT,Asia Pacific,Tokyo,86 ms,601 kB/s
+13.231.236.95,8443,true,NRT,Asia Pacific,Tokyo,94 ms,9073 kB/s
+13.37.224.156,2053,true,CDG,Europe,Paris,185 ms,585 kB/s
+13.37.106.51,443,true,CDG,Europe,Paris,175 ms,51 kB/s
