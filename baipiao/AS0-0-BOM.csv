@@ -1,0 +1,16 @@
+﻿IP地址,端口,回源端口,TLS,数据中心,地区,城市,TCP延迟(ms),速度(MB/s)
+20.233.253.35,8443,443,true,BOM,Asia Pacific,Mumbai,3,7.38
+3.108.117.25,443,443,true,BOM,Asia Pacific,Mumbai,2,2.81
+35.200.202.118,443,443,true,BOM,Asia Pacific,Mumbai,1,0.68
+129.154.254.254,8443,443,true,BOM,Asia Pacific,Mumbai,1,0.52
+35.200.202.118,80,80,false,BOM,Asia Pacific,Mumbai,1,0.23
+34.93.79.152,80,80,false,BOM,Asia Pacific,Mumbai,1,0.06
+3.110.168.63,2053,443,true,BOM,Asia Pacific,Mumbai,1,0.04
+13.201.221.231,443,443,true,BOM,Asia Pacific,Mumbai,1,0.04
+20.204.43.57,80,443,false,BOM,Asia Pacific,Mumbai,2,0.01
+20.204.147.101,443,443,true,BOM,Asia Pacific,Mumbai,3,0.00
+3.109.185.221,443,443,true,BOM,Asia Pacific,Mumbai,2,0.00
+35.200.154.186,443,443,true,BOM,Asia Pacific,Mumbai,3,0.00
+20.233.253.35,2053,443,true,BOM,Asia Pacific,Mumbai,4,0.00
+20.235.220.189,443,443,true,BOM,Asia Pacific,Mumbai,2,0.00
+20.235.105.146,443,443,true,BOM,Asia Pacific,Mumbai,3,0.00
