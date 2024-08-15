@@ -1,3 +1,2 @@
 ﻿IP地址,端口,回源端口,TLS,数据中心,地区,城市,TCP延迟(ms)
-103.137.63.3,443,443,true,KHH,Asia Pacific,Kaohsiung City,104
-103.137.63.2,443,443,true,KHH,Asia Pacific,Kaohsiung City,87
+103.137.63.3,443,443,true,KHH,Asia Pacific,Kaohsiung City,65

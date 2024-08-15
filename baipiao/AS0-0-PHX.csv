@@ -1,3 +1,2 @@
 ﻿IP地址,端口,回源端口,TLS,数据中心,地区,城市,TCP延迟(ms),速度(MB/s)
-184.95.40.67,443,443,true,PHX,North America,Phoenix,0,8.61
-66.85.139.204,443,443,true,PHX,North America,Phoenix,0,8.14
+66.85.139.204,443,443,true,PHX,North America,Phoenix,283,0.12

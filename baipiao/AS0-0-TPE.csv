@@ -1,9 +1,10 @@
 ﻿IP地址,端口,回源端口,TLS,数据中心,地区,城市,TCP延迟(ms),速度(MB/s)
-37.128.253.213,10002,443,true,TPE,Asia Pacific,Taipei,222,4.47
-178.173.237.178,41809,80,false,TPE,Asia Pacific,Taipei,1,0.00
-178.173.237.166,41809,80,false,TPE,Asia Pacific,Taipei,1,0.00
-178.173.237.179,41809,80,false,TPE,Asia Pacific,Taipei,1,0.00
-103.20.223.93,30810,80,false,TPE,Asia Pacific,Taipei,1,0.00
-154.12.191.87,41809,80,false,TPE,Asia Pacific,Taipei,1,0.00
-45.159.48.14,30810,80,false,TPE,Asia Pacific,Taipei,1,0.00
-185.220.237.130,443,443,true,TPE,Asia Pacific,Taipei,0,0.00
+35.234.17.219,8443,443,true,TPE,Asia Pacific,Taipei,36,5.95
+35.234.17.219,2053,443,true,TPE,Asia Pacific,Taipei,36,3.71
+157.254.32.14,41809,80,false,TPE,Asia Pacific,Taipei,0,0.00
+157.254.33.50,41809,80,false,TPE,Asia Pacific,Taipei,0,0.00
+178.173.237.178,41809,80,false,TPE,Asia Pacific,Taipei,0,0.00
+178.173.237.179,41809,80,false,TPE,Asia Pacific,Taipei,0,0.00
+178.173.237.166,41809,80,false,TPE,Asia Pacific,Taipei,0,0.00
+154.12.191.87,41809,80,false,TPE,Asia Pacific,Taipei,0,0.00
+45.159.48.14,30810,80,false,TPE,Asia Pacific,Taipei,0,0.00
