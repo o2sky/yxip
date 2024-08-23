@@ -1,0 +1,11 @@
+﻿IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
+34.88.63.160,443,true,FRA,Europe,Frankfurt,343 ms,1896 kB/s
+34.123.83.237,443,true,ORD,North America,Chicago,236 ms,1273 kB/s
+34.105.49.234,443,true,SEA,North America,Seattle,295 ms,476 kB/s
+35.230.79.26,443,true,SEA,North America,Seattle,264 ms,451 kB/s
+35.197.23.75,443,true,SEA,North America,Seattle,279 ms,163 kB/s
+34.41.252.92,443,true,ORD,North America,Chicago,242 ms,125 kB/s
+35.247.124.181,443,true,SEA,North America,Seattle,260 ms,118 kB/s
+34.66.72.229,443,true,ORD,North America,Chicago,265 ms,92 kB/s
+34.105.3.218,443,true,SEA,North America,Seattle,305 ms,0 kB/s
+34.82.76.253,443,true,SEA,North America,Seattle,236 ms,0 kB/s
