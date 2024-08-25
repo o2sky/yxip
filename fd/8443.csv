@@ -1,20 +1,16 @@
 IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
-47.245.96.80,8443,true,SIN,Asia Pacific,Singapore,210 ms,9669 kB/s
-8.219.104.37,8443,true,SIN,Asia Pacific,Singapore,211 ms,8244 kB/s
-8.217.66.3,8443,true,HKG,Asia Pacific,Hong Kong,36 ms,7927 kB/s
-138.2.36.157,8443,true,KIX,Asia Pacific,Osaka,191 ms,6659 kB/s
-8.219.153.237,8443,true,NRT,Asia Pacific,Tokyo,1 ms,4178 kB/s
-47.251.54.234,8443,true,SJC,North America,San Jose,185 ms,803 kB/s
-144.24.161.142,8443,true,FRA,Europe,Frankfurt,278 ms,590 kB/s
-141.148.242.113,8443,true,AMS,Europe,Amsterdam,507 ms,353 kB/s
-8.222.193.65,8443,true,SIN,Asia Pacific,Singapore,215 ms,353 kB/s
-141.144.198.113,8443,true,AMS,Europe,Amsterdam,261 ms,265 kB/s
-204.216.105.106,8443,true,YUL,North America,Montréal,551 ms,197 kB/s
-152.69.210.245,8443,true,SIN,Asia Pacific,Singapore,295 ms,188 kB/s
-130.61.181.61,8443,true,FRA,Europe,Frankfurt,278 ms,170 kB/s
-132.145.54.84,8443,true,LHR,Europe,London,260 ms,142 kB/s
-129.159.83.88,8443,true,IAD,North America,Ashburn,247 ms,132 kB/s
-143.47.243.144,8443,true,LHR,Europe,London,267 ms,105 kB/s
-47.243.120.239,8443,true,HKG,Asia Pacific,Hong Kong,31 ms,16 kB/s
-8.217.49.34,8443,true,HKG,Asia Pacific,Hong Kong,26 ms,16 kB/s
-47.243.198.198,8443,true,HKG,Asia Pacific,Hong Kong,35 ms,14 kB/s
+152.70.155.147,8443,true,LAX,North America,Los Angeles,223 ms,7974 kB/s
+132.145.54.84,8443,true,LHR,Europe,London,291 ms,5412 kB/s
+129.151.198.3,8443,true,ARN,Europe,Stockholm,2 ms,4853 kB/s
+141.147.85.167,8443,true,LHR,Europe,London,523 ms,711 kB/s
+8.222.193.65,8443,true,SIN,Asia Pacific,Singapore,215 ms,465 kB/s
+129.159.83.88,8443,true,IAD,North America,Ashburn,241 ms,235 kB/s
+158.101.215.45,8443,true,AMS,Europe,Amsterdam,274 ms,75 kB/s
+143.47.243.144,8443,true,LHR,Europe,London,276 ms,66 kB/s
+141.145.205.115,8443,true,CDG,Europe,Paris,277 ms,54 kB/s
+141.144.198.113,8443,true,AMS,Europe,Amsterdam,291 ms,42 kB/s
+144.24.161.142,8443,true,FRA,Europe,Frankfurt,403 ms,28 kB/s
+8.217.49.34,8443,true,HKG,Asia Pacific,Hong Kong,31 ms,17 kB/s
+138.2.36.157,8443,true,KIX,Asia Pacific,Osaka,515 ms,0 kB/s
+152.70.59.90,8443,true,AMS,Europe,Amsterdam,277 ms,0 kB/s
+132.145.127.203,8443,true,NRT,Asia Pacific,Tokyo,134 ms,0 kB/s
