@@ -1,4 +1,5 @@
 ﻿IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
-67.226.223.240,443,true,DFW,North America,Dallas,248 ms,5563 kB/s
-13.37.224.156,2053,true,CDG,Europe,Paris,176 ms,1721 kB/s
-67.226.223.240,80,true,ORD,North America,Chicago,245 ms,519 kB/s
+67.226.222.223,80,true,ATL,North America,Atlanta,223 ms,5343 kB/s
+13.37.224.156,2053,true,CDG,Europe,Paris,187 ms,2348 kB/s
+67.226.223.240,80,true,ATL,North America,Atlanta,249 ms,2210 kB/s
+67.226.223.240,443,true,ATL,North America,Atlanta,251 ms,2196 kB/s
