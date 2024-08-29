@@ -1,12 +1,7 @@
 ﻿IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
-35.200.154.186,443,true,BOM,Asia Pacific,Mumbai,309 ms,2860 kB/s
-34.66.72.229,443,true,ORD,North America,Chicago,238 ms,2585 kB/s
-35.197.23.75,443,true,SEA,North America,Seattle,252 ms,1903 kB/s
-34.41.252.92,443,true,ORD,North America,Chicago,244 ms,1532 kB/s
-34.123.83.237,443,true,ORD,North America,Chicago,260 ms,979 kB/s
-34.82.76.253,443,true,SEA,North America,Seattle,272 ms,754 kB/s
-35.247.124.181,443,true,SEA,North America,Seattle,277 ms,624 kB/s
-34.105.49.234,443,true,SEA,North America,Seattle,281 ms,393 kB/s
-34.147.231.33,443,true,LHR,Europe,London,297 ms,287 kB/s
-35.230.79.26,443,true,SEA,North America,Seattle,262 ms,147 kB/s
-34.88.63.160,443,true,FRA,Europe,Frankfurt,346 ms,11 kB/s
+34.41.252.92,443,true,ORD,North America,Chicago,246 ms,3835 kB/s
+35.197.23.75,443,true,SEA,North America,Seattle,241 ms,307 kB/s
+34.88.63.160,443,true,FRA,Europe,Frankfurt,337 ms,220 kB/s
+35.247.124.181,443,true,SEA,North America,Seattle,293 ms,144 kB/s
+34.105.3.218,443,true,SEA,North America,Seattle,303 ms,54 kB/s
+34.123.83.237,443,true,ORD,North America,Chicago,257 ms,38 kB/s
