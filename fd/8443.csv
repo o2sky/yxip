@@ -1,21 +1,22 @@
-IP鍦板潃,绔彛,TLS,鏁版嵁涓績,鍦板尯,鍩庡競,缃戠粶寤惰繜,涓嬭浇閫熷害
-130.162.226.138,8443,true,FRA,Europe,Frankfurt,1 ms,6601 kB/s
-150.230.20.156,8443,true,AMS,Europe,Amsterdam,1 ms,6304 kB/s
-132.145.54.84,8443,true,LHR,Europe,London,1 ms,6109 kB/s
-158.101.169.13,8443,true,FRA,Europe,Frankfurt,1 ms,5907 kB/s
-8.211.2.2,8443,true,FRA,Europe,Frankfurt,1 ms,5890 kB/s
-143.47.243.144,8443,true,LHR,Europe,London,1 ms,5812 kB/s
-144.24.161.142,8443,true,FRA,Europe,Frankfurt,1 ms,5797 kB/s
-47.245.142.16,8443,true,FRA,Europe,Frankfurt,4 ms,5795 kB/s
-141.144.198.113,8443,true,AMS,Europe,Amsterdam,1 ms,5771 kB/s
-141.145.205.115,8443,true,CDG,Europe,Paris,1 ms,5757 kB/s
-141.147.85.167,8443,true,LHR,Europe,London,1 ms,5730 kB/s
-130.61.107.238,8443,true,FRA,Europe,Frankfurt,1 ms,5695 kB/s
-130.61.181.61,8443,true,FRA,Europe,Frankfurt,1 ms,5676 kB/s
-141.148.242.113,8443,true,AMS,Europe,Amsterdam,4 ms,5642 kB/s
-129.151.198.3,8443,true,ARN,Europe,Stockholm,1 ms,5377 kB/s
-152.70.59.90,8443,true,AMS,Europe,Amsterdam,1 ms,5271 kB/s
-8.211.195.135,8443,true,LHR,Europe,London,5 ms,5160 kB/s
-144.21.41.62,8443,true,AMS,Europe,Amsterdam,1 ms,4203 kB/s
-64.110.103.222,8443,true,KIX,Asia Pacific,Osaka,1 ms,416 kB/s
-8.208.11.119,8443,true,LHR,Europe,London,5 ms,343 kB/s
+IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
+193.122.1.0,8443,true,FRA,Europe,Frankfurt,264 ms,8540 kB/s
+158.101.169.13,8443,true,FRA,Europe,Frankfurt,274 ms,6663 kB/s
+141.144.198.113,8443,true,AMS,Europe,Amsterdam,252 ms,6469 kB/s
+129.151.198.3,8443,true,ARN,Europe,Stockholm,277 ms,6456 kB/s
+150.230.20.156,8443,true,AMS,Europe,Amsterdam,255 ms,6441 kB/s
+144.24.161.142,8443,true,FRA,Europe,Frankfurt,267 ms,6010 kB/s
+8.211.195.135,8443,true,LHR,Europe,London,277 ms,5959 kB/s
+47.245.142.16,8443,true,FRA,Europe,Frankfurt,257 ms,5945 kB/s
+143.47.243.144,8443,true,LHR,Europe,London,268 ms,5877 kB/s
+132.145.54.84,8443,true,LHR,Europe,London,250 ms,5824 kB/s
+144.21.41.62,8443,true,AMS,Europe,Amsterdam,280 ms,5806 kB/s
+141.147.85.167,8443,true,LHR,Europe,London,251 ms,5795 kB/s
+130.162.226.138,8443,true,FRA,Europe,Frankfurt,253 ms,5718 kB/s
+130.61.107.238,8443,true,FRA,Europe,Frankfurt,274 ms,5632 kB/s
+8.211.2.2,8443,true,FRA,Europe,Frankfurt,252 ms,5361 kB/s
+141.145.205.115,8443,true,CDG,Europe,Paris,268 ms,5291 kB/s
+141.148.242.113,8443,true,AMS,Europe,Amsterdam,282 ms,5185 kB/s
+8.208.11.119,8443,true,LHR,Europe,London,274 ms,5056 kB/s
+152.70.59.90,8443,true,AMS,Europe,Amsterdam,278 ms,4860 kB/s
+130.61.181.61,8443,true,FRA,Europe,Frankfurt,255 ms,4622 kB/s
+132.226.163.224,8443,true,GRU,South America,S?o Paulo,358 ms,415 kB/s

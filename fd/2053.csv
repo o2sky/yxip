@@ -1,12 +1,14 @@
-IP鍦板潃,绔彛,TLS,鏁版嵁涓績,鍦板尯,鍩庡競,缃戠粶寤惰繜,涓嬭浇閫熷害
-129.146.242.24,2053,true,LAX,North America,Los Angeles,1 ms,8028 kB/s
-141.144.198.113,2053,true,AMS,Europe,Amsterdam,1 ms,6878 kB/s
-143.47.243.144,2053,true,LHR,Europe,London,0 ms,6553 kB/s
-158.101.175.51,2053,true,FRA,Europe,Frankfurt,1 ms,6489 kB/s
-132.145.54.84,2053,true,LHR,Europe,London,1 ms,5920 kB/s
-144.21.41.62,2053,true,AMS,Europe,Amsterdam,1 ms,5321 kB/s
-130.61.181.61,2053,true,FRA,Europe,Frankfurt,4 ms,2044 kB/s
-129.151.198.3,2053,true,ARN,Europe,Stockholm,0 ms,1459 kB/s
-130.61.203.115,2053,true,FRA,Europe,Frankfurt,3 ms,1051 kB/s
-158.101.169.13,2053,true,FRA,Europe,Frankfurt,1 ms,534 kB/s
-64.110.103.222,2053,true,KIX,Asia Pacific,Osaka,3 ms,294 kB/s
+IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
+129.146.242.24,2053,true,LAX,North America,Los Angeles,189 ms,8108 kB/s
+193.122.1.0,2053,true,FRA,Europe,Frankfurt,278 ms,6814 kB/s
+143.47.243.144,2053,true,LHR,Europe,London,295 ms,5860 kB/s
+141.144.198.113,2053,true,AMS,Europe,Amsterdam,252 ms,5689 kB/s
+144.21.41.62,2053,true,AMS,Europe,Amsterdam,299 ms,5517 kB/s
+130.61.181.61,2053,true,FRA,Europe,Frankfurt,256 ms,5315 kB/s
+132.145.54.84,2053,true,LHR,Europe,London,273 ms,5208 kB/s
+129.151.198.3,2053,true,ARN,Europe,Stockholm,262 ms,5120 kB/s
+158.101.175.51,2053,true,FRA,Europe,Frankfurt,283 ms,3667 kB/s
+158.101.169.13,2053,true,FRA,Europe,Frankfurt,260 ms,1861 kB/s
+130.61.203.115,2053,true,FRA,Europe,Frankfurt,249 ms,1088 kB/s
+132.226.163.224,2053,true,GRU,South America,S?o Paulo,371 ms,325 kB/s
+64.110.103.222,2053,true,KIX,Asia Pacific,Osaka,188 ms,132 kB/s

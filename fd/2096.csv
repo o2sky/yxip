@@ -1,3 +1,3 @@
-IP鍦板潃,绔彛,TLS,鏁版嵁涓績,鍦板尯,鍩庡競,缃戠粶寤惰繜,涓嬭浇閫熷害
-152.70.155.147,2096,true,LAX,North America,Los Angeles,6 ms,6621 kB/s
-130.61.181.61,2096,true,FRA,Europe,Frankfurt,6 ms,4921 kB/s
+IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
+152.70.155.147,2096,true,LAX,North America,Los Angeles,197 ms,8745 kB/s
+130.61.181.61,2096,true,FRA,Europe,Frankfurt,256 ms,5053 kB/s
