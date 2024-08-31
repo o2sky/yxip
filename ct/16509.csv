@@ -1,5 +1,5 @@
 ﻿IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
-67.226.222.123,80,true,ORD,North America,Chicago,230 ms,179 kB/s
-67.226.223.240,443,true,ORD,North America,Chicago,246 ms,153 kB/s
-13.37.224.156,2053,true,CDG,Europe,Paris,187 ms,96 kB/s
-67.226.223.240,80,true,ATL,North America,Atlanta,251 ms,30 kB/s
+13.37.224.156,2053,true,CDG,Europe,Paris,169 ms,9197 kB/s
+67.226.223.240,443,true,ORD,North America,Chicago,223 ms,6271 kB/s
+67.226.222.129,80,true,ORD,North America,Chicago,222 ms,5615 kB/s
+67.226.223.240,80,true,ORD,North America,Chicago,226 ms,3030 kB/s

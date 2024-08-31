@@ -1,7 +1,9 @@
 ﻿IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
-34.41.252.92,443,true,ORD,North America,Chicago,246 ms,3835 kB/s
-35.197.23.75,443,true,SEA,North America,Seattle,241 ms,307 kB/s
-34.88.63.160,443,true,FRA,Europe,Frankfurt,337 ms,220 kB/s
-35.247.124.181,443,true,SEA,North America,Seattle,293 ms,144 kB/s
-34.105.3.218,443,true,SEA,North America,Seattle,303 ms,54 kB/s
-34.123.83.237,443,true,ORD,North America,Chicago,257 ms,38 kB/s
+34.41.252.92,443,true,ORD,North America,Chicago,251 ms,5317 kB/s
+34.123.83.237,443,true,ORD,North America,Chicago,252 ms,4425 kB/s
+34.105.189.25,443,true,LHR,Europe,London,311 ms,3241 kB/s
+34.88.63.160,443,true,FRA,Europe,Frankfurt,328 ms,2494 kB/s
+34.147.231.33,443,true,LHR,Europe,London,306 ms,1561 kB/s
+35.197.23.75,443,true,SEA,North America,Seattle,224 ms,61 kB/s
+34.105.3.218,443,true,SEA,North America,Seattle,232 ms,5 kB/s
+35.247.124.181,443,true,SEA,North America,Seattle,228 ms,0 kB/s

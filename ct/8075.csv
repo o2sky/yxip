@@ -1,6 +1,7 @@
 ﻿IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
-20.246.127.166,443,true,IAD,North America,Ashburn,248 ms,3020 kB/s
-20.221.32.145,443,true,ORD,North America,Chicago,218 ms,1996 kB/s
-52.137.60.154,443,true,AMS,Europe,Amsterdam,255 ms,153 kB/s
-20.220.204.217,443,true,YYZ,North America,Toronto,241 ms,73 kB/s
-20.62.202.159,443,true,IAD,North America,Ashburn,283 ms,67 kB/s
+20.221.32.145,443,true,DFW,North America,Dallas,212 ms,6145 kB/s
+20.52.22.151,443,true,FRA,Europe,Frankfurt,261 ms,4019 kB/s
+20.246.127.166,443,true,IAD,North America,Ashburn,245 ms,2633 kB/s
+20.62.202.159,443,true,IAD,North America,Ashburn,285 ms,1479 kB/s
+20.220.204.217,443,true,YYZ,North America,Toronto,238 ms,73 kB/s
+52.137.60.154,443,true,AMS,Europe,Amsterdam,258 ms,0 kB/s
