@@ -1,0 +1,30 @@
+﻿IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
+166.0.188.128,13657,true,LAX,North America,Los Angeles,184 ms,8419 kB/s
+166.0.188.128,56825,true,LAX,North America,Los Angeles,184 ms,6939 kB/s
+166.0.188.128,40145,true,LAX,North America,Los Angeles,183 ms,6686 kB/s
+23.158.136.197,27522,true,LAX,North America,Los Angeles,171 ms,6573 kB/s
+23.158.136.28,35465,true,LAX,North America,Los Angeles,162 ms,5772 kB/s
+166.0.188.128,12535,true,LAX,North America,Los Angeles,185 ms,5637 kB/s
+166.0.188.128,16819,true,LAX,North America,Los Angeles,174 ms,5625 kB/s
+166.0.188.128,43745,true,LAX,North America,Los Angeles,168 ms,5496 kB/s
+166.0.188.128,20617,true,LAX,North America,Los Angeles,176 ms,5203 kB/s
+166.0.188.128,41443,true,LAX,North America,Los Angeles,169 ms,5150 kB/s
+166.0.188.128,11893,true,LAX,North America,Los Angeles,177 ms,4954 kB/s
+166.0.188.128,29655,true,LAX,North America,Los Angeles,168 ms,4933 kB/s
+166.0.188.128,16131,true,LAX,North America,Los Angeles,181 ms,4843 kB/s
+166.0.188.128,56268,true,LAX,North America,Los Angeles,174 ms,4767 kB/s
+166.0.188.128,47314,true,LAX,North America,Los Angeles,170 ms,4719 kB/s
+166.0.188.91,12540,true,LAX,North America,Los Angeles,178 ms,4581 kB/s
+166.0.188.128,26805,true,LAX,North America,Los Angeles,182 ms,4237 kB/s
+23.158.136.27,18566,true,LAX,North America,Los Angeles,180 ms,3753 kB/s
+141.11.148.196,48301,true,HKG,Asia Pacific,Hong Kong,337 ms,560 kB/s
+82.153.65.154,24620,true,NRT,Asia Pacific,Tokyo,242 ms,42 kB/s
+141.11.87.20,7783,true,TPE,Asia Pacific,Taipei,198 ms,18 kB/s
+141.11.78.134,8443,true,HKG,Asia Pacific,Hong Kong,363 ms,8 kB/s
+213.218.254.218,59104,true,NRT,Asia Pacific,Tokyo,230 ms,0 kB/s
+82.153.65.62,6666,true,NRT,Asia Pacific,Tokyo,245 ms,0 kB/s
+82.153.65.177,443,true,NRT,Asia Pacific,Tokyo,246 ms,0 kB/s
+166.0.188.128,17251,true,LAX,North America,Los Angeles,173 ms,0 kB/s
+213.218.254.248,8443,true,NRT,Asia Pacific,Tokyo,251 ms,0 kB/s
+103.75.70.107,55092,true,NRT,Asia Pacific,Tokyo,248 ms,0 kB/s
+166.0.188.128,19027,true,LAX,North America,Los Angeles,178 ms,0 kB/s
