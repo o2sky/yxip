@@ -1,0 +1,29 @@
+﻿IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
+163.53.246.152,27043,true,HKG,Asia Pacific,Hong Kong,282 ms,12161 kB/s
+163.53.246.152,31005,true,HKG,Asia Pacific,Hong Kong,286 ms,9817 kB/s
+163.53.246.152,27013,true,HKG,Asia Pacific,Hong Kong,288 ms,8985 kB/s
+217.20.241.120,25086,true,LAX,North America,Los Angeles,337 ms,5646 kB/s
+154.197.92.81,9888,true,CDG,Europe,Paris,525 ms,4844 kB/s
+154.197.92.86,9888,true,CDG,Europe,Paris,479 ms,4636 kB/s
+217.20.241.36,17826,true,LAX,North America,Los Angeles,329 ms,4635 kB/s
+154.197.92.82,9888,true,CDG,Europe,Paris,481 ms,4252 kB/s
+154.197.92.93,9888,true,CDG,Europe,Paris,288 ms,4048 kB/s
+154.197.92.91,9888,true,CDG,Europe,Paris,292 ms,3951 kB/s
+154.197.92.77,9888,true,CDG,Europe,Paris,526 ms,3944 kB/s
+154.197.92.75,9888,true,CDG,Europe,Paris,529 ms,3927 kB/s
+154.197.92.84,9888,true,CDG,Europe,Paris,286 ms,3916 kB/s
+154.197.92.88,9888,true,CDG,Europe,Paris,285 ms,3769 kB/s
+154.197.92.85,9888,true,CDG,Europe,Paris,285 ms,3743 kB/s
+154.197.92.80,9888,true,CDG,Europe,Paris,527 ms,3611 kB/s
+154.197.92.73,9888,true,CDG,Europe,Paris,531 ms,3346 kB/s
+154.197.92.92,9888,true,CDG,Europe,Paris,271 ms,3207 kB/s
+103.235.18.61,34237,true,HKG,Asia Pacific,Hong Kong,72 ms,2545 kB/s
+172.247.123.56,34237,true,LAX,North America,Los Angeles,319 ms,1766 kB/s
+103.99.178.62,31940,true,LAX,North America,Los Angeles,183 ms,1094 kB/s
+103.99.178.62,51794,true,LAX,North America,Los Angeles,199 ms,966 kB/s
+172.247.21.125,443,true,LAX,North America,Los Angeles,329 ms,835 kB/s
+38.6.190.192,2087,true,LAX,North America,Los Angeles,344 ms,579 kB/s
+38.6.190.192,2083,true,LAX,North America,Los Angeles,327 ms,281 kB/s
+216.38.168.34,16384,true,LAX,North America,Los Angeles,354 ms,121 kB/s
+23.225.64.72,25017,true,SIN,Asia Pacific,Singapore,305 ms,13 kB/s
+2.56.255.16,443,true,LAX,North America,Los Angeles,327 ms,0 kB/s
