@@ -1,25 +1,22 @@
 ﻿IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
-166.0.188.128,56825,true,LAX,North America,Los Angeles,195 ms,5311 kB/s
-166.0.188.128,17251,true,LAX,North America,Los Angeles,197 ms,4893 kB/s
-166.0.188.128,26805,true,LAX,North America,Los Angeles,193 ms,4742 kB/s
-166.0.188.128,12535,true,LAX,North America,Los Angeles,193 ms,4716 kB/s
-23.158.136.197,27522,true,LAX,North America,Los Angeles,171 ms,4437 kB/s
-166.0.188.128,13657,true,LAX,North America,Los Angeles,201 ms,4312 kB/s
-166.0.188.128,16819,true,LAX,North America,Los Angeles,195 ms,3998 kB/s
-166.0.188.128,20617,true,LAX,North America,Los Angeles,198 ms,3995 kB/s
-166.0.188.128,19027,true,LAX,North America,Los Angeles,200 ms,3985 kB/s
-166.0.188.128,43745,true,LAX,North America,Los Angeles,196 ms,3880 kB/s
-166.0.188.128,56268,true,LAX,North America,Los Angeles,198 ms,3855 kB/s
-166.0.188.128,29655,true,LAX,North America,Los Angeles,185 ms,3816 kB/s
-166.0.188.128,11893,true,LAX,North America,Los Angeles,184 ms,3684 kB/s
-166.0.188.128,41443,true,LAX,North America,Los Angeles,198 ms,3362 kB/s
-166.0.188.128,47314,true,LAX,North America,Los Angeles,193 ms,2916 kB/s
-166.0.188.128,40145,true,LAX,North America,Los Angeles,195 ms,2566 kB/s
-185.155.235.146,777,true,HKG,Asia Pacific,Hong Kong,467 ms,182 kB/s
-185.155.235.146,17771,true,SIN,Asia Pacific,Singapore,424 ms,169 kB/s
-213.218.254.248,8443,true,NRT,Asia Pacific,Tokyo,248 ms,77 kB/s
-141.11.78.134,8443,true,HKG,Asia Pacific,Hong Kong,324 ms,46 kB/s
-141.11.86.143,31268,true,SIN,Asia Pacific,Singapore,291 ms,42 kB/s
-103.255.208.216,443,true,HKG,Asia Pacific,Hong Kong,102 ms,12 kB/s
-82.153.65.154,24620,true,NRT,Asia Pacific,Tokyo,246 ms,0 kB/s
-166.0.188.128,16131,true,LAX,North America,Los Angeles,197 ms,0 kB/s
+166.0.188.128,56268,true,LAX,North America,Los Angeles,186 ms,9096 kB/s
+166.0.188.128,16819,true,LAX,North America,Los Angeles,190 ms,9077 kB/s
+166.0.188.128,19027,true,LAX,North America,Los Angeles,189 ms,8433 kB/s
+23.158.136.197,27522,true,LAX,North America,Los Angeles,187 ms,7161 kB/s
+166.0.188.128,20617,true,LAX,North America,Los Angeles,183 ms,6235 kB/s
+166.0.188.128,26805,true,LAX,North America,Los Angeles,180 ms,5448 kB/s
+166.0.188.128,17251,true,LAX,North America,Los Angeles,185 ms,5400 kB/s
+166.0.188.128,47314,true,LAX,North America,Los Angeles,183 ms,5052 kB/s
+166.0.188.128,40145,true,LAX,North America,Los Angeles,174 ms,4923 kB/s
+166.0.188.91,12540,true,LAX,North America,Los Angeles,173 ms,4900 kB/s
+166.0.188.128,12535,true,LAX,North America,Los Angeles,182 ms,4456 kB/s
+166.0.188.128,41443,true,LAX,North America,Los Angeles,172 ms,4272 kB/s
+166.0.188.128,43745,true,LAX,North America,Los Angeles,182 ms,4206 kB/s
+166.0.188.128,56825,true,LAX,North America,Los Angeles,184 ms,3996 kB/s
+166.0.188.128,13657,true,LAX,North America,Los Angeles,180 ms,3690 kB/s
+141.11.148.196,48301,true,HKG,Asia Pacific,Hong Kong,326 ms,166 kB/s
+213.218.254.248,8443,true,NRT,Asia Pacific,Tokyo,235 ms,36 kB/s
+141.11.78.134,8443,true,HKG,Asia Pacific,Hong Kong,346 ms,13 kB/s
+103.255.208.216,443,true,HKG,Asia Pacific,Hong Kong,111 ms,0 kB/s
+82.153.65.177,443,true,NRT,Asia Pacific,Tokyo,251 ms,0 kB/s
+166.0.188.128,16131,true,LAX,North America,Los Angeles,173 ms,0 kB/s
