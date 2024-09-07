@@ -1,20 +1,16 @@
 ﻿IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
-166.0.188.128,20617,true,LAX,North America,Los Angeles,187 ms,6725 kB/s
-166.0.188.128,41443,true,LAX,North America,Los Angeles,176 ms,3354 kB/s
-166.0.188.128,43745,true,LAX,North America,Los Angeles,177 ms,2405 kB/s
-166.0.188.128,13657,true,LAX,North America,Los Angeles,178 ms,2366 kB/s
-166.0.188.128,29655,true,LAX,North America,Los Angeles,184 ms,2261 kB/s
-166.0.188.128,40145,true,LAX,North America,Los Angeles,182 ms,2249 kB/s
-166.0.188.128,17251,true,LAX,North America,Los Angeles,186 ms,1370 kB/s
-141.11.86.143,31268,true,ICN,Asia Pacific,Seoul,278 ms,54 kB/s
-141.11.78.134,8443,true,HKG,Asia Pacific,Hong Kong,320 ms,18 kB/s
-166.0.188.128,16819,true,LAX,North America,Los Angeles,181 ms,0 kB/s
-166.0.188.128,47314,true,LAX,North America,Los Angeles,181 ms,0 kB/s
-166.0.188.128,12535,true,LAX,North America,Los Angeles,179 ms,0 kB/s
-82.153.65.154,24620,true,NRT,Asia Pacific,Tokyo,230 ms,0 kB/s
-213.218.254.109,5412,true,NRT,Asia Pacific,Tokyo,230 ms,0 kB/s
-103.75.70.107,55092,true,NRT,Asia Pacific,Tokyo,242 ms,0 kB/s
-103.255.208.216,443,true,HKG,Asia Pacific,Hong Kong,403 ms,0 kB/s
-166.0.188.128,56825,true,LAX,North America,Los Angeles,185 ms,0 kB/s
-166.0.188.128,56268,true,LAX,North America,Los Angeles,183 ms,0 kB/s
-166.0.188.128,16131,true,LAX,North America,Los Angeles,180 ms,0 kB/s
+166.0.188.128,20617,true,LAX,North America,Los Angeles,195 ms,5878 kB/s
+166.0.188.128,40145,true,LAX,North America,Los Angeles,189 ms,5591 kB/s
+166.0.188.128,47314,true,LAX,North America,Los Angeles,194 ms,4400 kB/s
+166.0.188.128,56268,true,LAX,North America,Los Angeles,184 ms,4352 kB/s
+166.0.188.128,13657,true,LAX,North America,Los Angeles,183 ms,4324 kB/s
+166.0.188.128,12535,true,LAX,North America,Los Angeles,187 ms,4238 kB/s
+166.0.188.128,16131,true,LAX,North America,Los Angeles,178 ms,4125 kB/s
+166.0.188.128,16819,true,LAX,North America,Los Angeles,181 ms,3583 kB/s
+82.153.65.154,24620,true,NRT,Asia Pacific,Tokyo,249 ms,121 kB/s
+82.153.65.177,443,true,NRT,Asia Pacific,Tokyo,247 ms,61 kB/s
+141.11.86.143,31268,true,SIN,Asia Pacific,Singapore,558 ms,41 kB/s
+166.0.188.91,12540,true,LAX,North America,Los Angeles,185 ms,14 kB/s
+213.218.254.109,5412,true,NRT,Asia Pacific,Tokyo,233 ms,0 kB/s
+23.158.136.27,18566,true,LAX,North America,Los Angeles,188 ms,0 kB/s
+166.0.188.128,41443,true,LAX,North America,Los Angeles,187 ms,0 kB/s

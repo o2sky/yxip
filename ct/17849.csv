@@ -1,25 +1,13 @@
 ﻿IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
-223.222.178.157,26685,true,NRT,Asia Pacific,Tokyo,106 ms,3605 kB/s
-223.222.178.157,22232,true,NRT,Asia Pacific,Tokyo,103 ms,3318 kB/s
-121.200.112.143,30081,true,NRT,Asia Pacific,Tokyo,102 ms,2191 kB/s
-121.200.112.143,13521,true,NRT,Asia Pacific,Tokyo,108 ms,1676 kB/s
-124.80.20.114,30059,true,ICN,Asia Pacific,Seoul,106 ms,1606 kB/s
-124.199.33.104,22672,true,KIX,Asia Pacific,Osaka,176 ms,1423 kB/s
-124.80.20.114,25177,true,NRT,Asia Pacific,Tokyo,118 ms,870 kB/s
-124.80.75.68,39658,true,NRT,Asia Pacific,Tokyo,128 ms,534 kB/s
-117.123.72.132,21979,true,NRT,Asia Pacific,Tokyo,120 ms,441 kB/s
-124.80.75.68,35810,true,KIX,Asia Pacific,Osaka,192 ms,425 kB/s
-117.123.72.132,19374,true,KIX,Asia Pacific,Osaka,157 ms,236 kB/s
-117.123.72.132,24016,true,NRT,Asia Pacific,Tokyo,117 ms,179 kB/s
-124.80.75.68,25346,true,KIX,Asia Pacific,Osaka,177 ms,166 kB/s
-124.80.75.68,26658,true,KIX,Asia Pacific,Osaka,171 ms,105 kB/s
-124.80.75.68,12654,true,NRT,Asia Pacific,Tokyo,132 ms,89 kB/s
-124.199.44.146,30013,true,ICN,Asia Pacific,Seoul,94 ms,80 kB/s
-124.199.44.146,35018,true,ICN,Asia Pacific,Seoul,89 ms,30 kB/s
-124.199.44.146,30005,true,ICN,Asia Pacific,Seoul,88 ms,7 kB/s
-124.199.44.146,30064,true,ICN,Asia Pacific,Seoul,90 ms,6 kB/s
-124.199.44.146,10419,true,NRT,Asia Pacific,Tokyo,113 ms,0 kB/s
-124.80.75.68,15772,true,NRT,Asia Pacific,Tokyo,139 ms,0 kB/s
-121.200.112.143,38673,true,HKG,Asia Pacific,Hong Kong,127 ms,0 kB/s
-121.200.112.143,11078,true,HKG,Asia Pacific,Hong Kong,137 ms,0 kB/s
-223.222.178.157,10696,true,KIX,Asia Pacific,Osaka,156 ms,0 kB/s
+124.80.20.114,25177,true,NRT,Asia Pacific,Tokyo,123 ms,812 kB/s
+124.199.33.104,22672,true,NRT,Asia Pacific,Tokyo,202 ms,736 kB/s
+124.80.20.114,30059,true,ICN,Asia Pacific,Seoul,102 ms,732 kB/s
+117.123.72.132,19374,true,NRT,Asia Pacific,Tokyo,124 ms,412 kB/s
+124.80.75.68,15772,true,NRT,Asia Pacific,Tokyo,267 ms,275 kB/s
+117.123.72.132,24016,true,NRT,Asia Pacific,Tokyo,119 ms,268 kB/s
+117.123.72.132,21979,true,KIX,Asia Pacific,Osaka,145 ms,230 kB/s
+124.80.75.68,39658,true,KIX,Asia Pacific,Osaka,313 ms,102 kB/s
+124.80.75.68,12654,true,NRT,Asia Pacific,Tokyo,267 ms,93 kB/s
+124.80.75.68,35810,true,KIX,Asia Pacific,Osaka,377 ms,64 kB/s
+124.80.75.68,25346,true,KIX,Asia Pacific,Osaka,349 ms,29 kB/s
+124.80.75.68,26658,true,NRT,Asia Pacific,Tokyo,253 ms,24 kB/s
