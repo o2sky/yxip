@@ -1,0 +1,28 @@
+﻿IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
+13.209.166.73,80,false,ICN,Asia Pacific,Seoul,117 ms,87410 kB/s
+18.159.105.97,80,false,FRA,Europe,Frankfurt,165 ms,11918 kB/s
+3.68.31.54,80,false,FRA,Europe,Frankfurt,163 ms,11359 kB/s
+3.66.115.225,80,false,FRA,Europe,Frankfurt,167 ms,4976 kB/s
+54.68.88.54,80,false,PDX,North America,Portland,194 ms,4633 kB/s
+51.17.192.69,80,false,MRS,Europe,Marseille,221 ms,4173 kB/s
+18.185.254.189,80,false,FRA,Europe,Frankfurt,166 ms,3952 kB/s
+3.111.137.178,80,false,BOM,Asia Pacific,Mumbai,300 ms,3055 kB/s
+51.17.192.69,443,false,MRS,Europe,Marseille,235 ms,2182 kB/s
+35.86.94.173,80,false,PDX,North America,Portland,192 ms,787 kB/s
+18.156.209.101,80,false,FRA,Europe,Frankfurt,173 ms,607 kB/s
+3.6.136.68,80,false,BOM,Asia Pacific,Mumbai,316 ms,607 kB/s
+18.179.65.137,8443,false,NRT,Asia Pacific,Tokyo,79 ms,527 kB/s
+52.53.226.228,80,false,SJC,North America,San Jose,205 ms,372 kB/s
+18.178.250.71,80,false,NRT,Asia Pacific,Tokyo,76 ms,153 kB/s
+54.150.195.218,80,false,NRT,Asia Pacific,Tokyo,85 ms,137 kB/s
+3.101.110.90,80,false,SJC,North America,San Jose,172 ms,0 kB/s
+204.110.223.199,80,false,CMH,North America,Columbus,224 ms,0 kB/s
+204.110.221.61,80,false,PDX,North America,Portland,219 ms,0 kB/s
+204.110.223.219,80,false,CMH,North America,Columbus,226 ms,0 kB/s
+204.110.223.229,80,false,CMH,North America,Columbus,233 ms,0 kB/s
+204.110.221.35,80,false,PDX,North America,Portland,195 ms,0 kB/s
+204.110.220.87,80,false,PDX,North America,Portland,196 ms,0 kB/s
+204.110.220.189,80,false,PDX,North America,Portland,202 ms,0 kB/s
+204.110.220.169,80,false,PDX,North America,Portland,193 ms,0 kB/s
+204.110.223.6,80,false,CMH,North America,Columbus,226 ms,0 kB/s
+35.167.93.200,443,false,PDX,North America,Portland,196 ms,0 kB/s
