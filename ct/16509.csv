@@ -1,35 +1,30 @@
 ﻿IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
-13.125.218.78,443,true,ICN,Asia Pacific,Seoul,115 ms,12376 kB/s
-13.53.81.150,2083,true,ARN,Europe,Stockholm,197 ms,8197 kB/s
-204.110.220.87,80,true,PDX,North America,Portland,194 ms,7969 kB/s
-3.101.110.90,80,true,SJC,North America,San Jose,167 ms,7936 kB/s
-13.40.128.14,8443,true,LHR,Europe,London,183 ms,7762 kB/s
-35.167.93.200,443,true,PDX,North America,Portland,202 ms,6921 kB/s
-13.50.173.22,8443,true,ARN,Europe,Stockholm,183 ms,6881 kB/s
-204.110.223.167,80,true,CMH,North America,Columbus,227 ms,5845 kB/s
-204.110.220.192,80,true,PDX,North America,Portland,205 ms,5794 kB/s
-15.156.203.151,8443,true,DFW,North America,Dallas,256 ms,5608 kB/s
-18.189.139.61,443,true,ORD,North America,Chicago,229 ms,5541 kB/s
-204.110.221.176,80,true,PDX,North America,Portland,200 ms,5167 kB/s
-204.110.221.48,80,true,PDX,North America,Portland,203 ms,4850 kB/s
-204.110.220.79,80,true,PDX,North America,Portland,224 ms,4696 kB/s
-204.110.220.18,80,true,PDX,North America,Portland,243 ms,4469 kB/s
-3.98.54.22,8443,true,YUL,North America,Montréal,253 ms,3060 kB/s
-99.83.209.185,443,true,IAD,North America,Ashburn,99 ms,2879 kB/s
-13.53.54.176,8080,true,ARN,Europe,Stockholm,186 ms,2402 kB/s
-13.41.76.64,8080,true,LHR,Europe,London,192 ms,2236 kB/s
-204.110.223.199,80,true,CMH,North America,Columbus,218 ms,1625 kB/s
-13.51.55.184,2053,true,ARN,Europe,Stockholm,189 ms,1096 kB/s
-13.53.51.77,8080,true,ARN,Europe,Stockholm,201 ms,974 kB/s
-13.53.132.96,8080,true,ARN,Europe,Stockholm,187 ms,518 kB/s
-13.201.221.231,443,true,BOM,Asia Pacific,Mumbai,305 ms,355 kB/s
-44.227.22.10,443,true,PDX,North America,Portland,222 ms,256 kB/s
-18.135.188.86,443,true,LHR,Europe,London,200 ms,108 kB/s
-50.112.166.63,443,true,PDX,North America,Portland,226 ms,108 kB/s
-3.99.106.179,443,true,DFW,North America,Dallas,252 ms,83 kB/s
-3.98.73.243,443,true,DFW,North America,Dallas,302 ms,70 kB/s
-15.157.7.168,443,true,DFW,North America,Dallas,244 ms,70 kB/s
-18.189.94.250,443,true,CMH,North America,Columbus,230 ms,70 kB/s
-3.111.155.29,443,true,BOM,Asia Pacific,Mumbai,310 ms,64 kB/s
-13.49.166.245,443,true,ARN,Europe,Stockholm,194 ms,16 kB/s
-15.156.17.176,8443,true,YUL,North America,Montréal,251 ms,0 kB/s
+13.53.81.150,2083,true,ARN,Europe,Stockholm,196 ms,7534 kB/s
+204.110.221.138,80,true,PDX,North America,Portland,206 ms,6824 kB/s
+13.50.173.22,8443,true,ARN,Europe,Stockholm,191 ms,6642 kB/s
+204.110.223.199,80,true,CMH,North America,Columbus,221 ms,6409 kB/s
+204.110.223.219,80,true,CMH,North America,Columbus,219 ms,6296 kB/s
+13.41.76.64,8080,true,LHR,Europe,London,191 ms,6236 kB/s
+13.53.132.96,8080,true,ARN,Europe,Stockholm,189 ms,6184 kB/s
+204.110.223.75,80,true,CMH,North America,Columbus,232 ms,6087 kB/s
+35.167.93.200,443,true,PDX,North America,Portland,198 ms,5500 kB/s
+50.112.166.63,443,true,PDX,North America,Portland,221 ms,5125 kB/s
+204.110.223.167,80,true,CMH,North America,Columbus,234 ms,5113 kB/s
+99.83.209.185,443,true,IAD,North America,Ashburn,98 ms,4891 kB/s
+204.110.223.180,80,true,CMH,North America,Columbus,220 ms,4596 kB/s
+13.53.54.176,8080,true,ARN,Europe,Stockholm,187 ms,4293 kB/s
+15.156.203.151,8443,true,DFW,North America,Dallas,265 ms,4022 kB/s
+13.53.51.77,8080,true,ARN,Europe,Stockholm,201 ms,3665 kB/s
+13.51.55.184,2053,true,ARN,Europe,Stockholm,190 ms,3318 kB/s
+3.101.110.90,80,true,SJC,North America,San Jose,170 ms,2770 kB/s
+15.156.17.176,8443,true,YUL,North America,Montréal,249 ms,1868 kB/s
+3.98.54.22,8443,true,YUL,North America,Montréal,256 ms,1845 kB/s
+13.201.221.231,443,true,BOM,Asia Pacific,Mumbai,285 ms,943 kB/s
+18.135.188.86,443,true,LHR,Europe,London,184 ms,105 kB/s
+44.227.22.10,443,true,PDX,North America,Portland,225 ms,96 kB/s
+18.189.94.250,443,true,CMH,North America,Columbus,227 ms,86 kB/s
+15.157.7.168,443,true,DFW,North America,Dallas,248 ms,77 kB/s
+3.99.106.179,443,true,DFW,North America,Dallas,246 ms,77 kB/s
+3.98.73.243,443,true,DFW,North America,Dallas,272 ms,70 kB/s
+3.111.155.29,443,true,BOM,Asia Pacific,Mumbai,287 ms,45 kB/s
+13.40.128.14,8443,true,LHR,Europe,London,188 ms,0 kB/s
