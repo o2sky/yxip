@@ -1,7 +1,6 @@
 ﻿IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
-117.123.72.132,21979,true,KIX,Asia Pacific,Osaka,161 ms,278 kB/s
-117.123.72.132,24016,true,KIX,Asia Pacific,Osaka,182 ms,115 kB/s
-117.123.72.132,19374,true,KIX,Asia Pacific,Osaka,185 ms,89 kB/s
-124.80.75.68,15772,true,NRT,Asia Pacific,Tokyo,293 ms,86 kB/s
-124.80.20.114,30059,true,ICN,Asia Pacific,Seoul,280 ms,57 kB/s
-124.80.75.68,35810,true,NRT,Asia Pacific,Tokyo,289 ms,0 kB/s
+124.80.75.68,26658,true,KIX,Asia Pacific,Osaka,253 ms,220 kB/s
+117.123.72.132,19374,true,KIX,Asia Pacific,Osaka,332 ms,189 kB/s
+124.80.75.68,25346,true,NRT,Asia Pacific,Tokyo,208 ms,121 kB/s
+124.80.75.68,39658,true,KIX,Asia Pacific,Osaka,276 ms,121 kB/s
+117.123.72.132,21979,true,KIX,Asia Pacific,Osaka,357 ms,0 kB/s
