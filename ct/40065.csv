@@ -1,103 +1,106 @@
 ﻿IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
-149.104.34.28,9888,true,MRS,Europe,Marseille,104 ms,5316 kB/s
-103.94.185.165,23429,true,LAX,North America,Los Angeles,192 ms,5054 kB/s
-149.104.35.89,9888,true,MRS,Europe,Marseille,109 ms,4929 kB/s
-154.197.92.103,9888,true,MRS,Europe,Marseille,86 ms,4904 kB/s
-154.197.92.81,9888,true,MRS,Europe,Marseille,68 ms,4680 kB/s
-149.104.35.125,9888,true,MRS,Europe,Marseille,77 ms,4613 kB/s
-154.197.92.66,9888,true,MRS,Europe,Marseille,111 ms,4565 kB/s
-149.104.35.96,9888,true,MRS,Europe,Marseille,92 ms,4508 kB/s
-149.104.35.84,9888,true,MRS,Europe,Marseille,120 ms,4487 kB/s
-149.104.35.123,9888,true,MRS,Europe,Marseille,80 ms,4405 kB/s
-149.104.35.94,9888,true,MRS,Europe,Marseille,94 ms,4387 kB/s
-149.104.35.98,9888,true,MRS,Europe,Marseille,92 ms,4309 kB/s
-149.104.35.80,9888,true,MRS,Europe,Marseille,87 ms,4288 kB/s
-149.104.35.106,9888,true,MRS,Europe,Marseille,85 ms,4135 kB/s
-149.104.35.55,9888,true,MRS,Europe,Marseille,79 ms,4095 kB/s
-154.194.64.131,9888,true,MRS,Europe,Marseille,90 ms,4060 kB/s
-149.104.35.74,9888,true,MRS,Europe,Marseille,112 ms,4035 kB/s
-154.197.92.82,9888,true,MRS,Europe,Marseille,71 ms,3994 kB/s
-149.104.35.51,9888,true,MRS,Europe,Marseille,76 ms,3986 kB/s
-149.104.35.115,9888,true,MRS,Europe,Marseille,83 ms,3962 kB/s
-154.197.92.70,9888,true,MRS,Europe,Marseille,104 ms,3939 kB/s
-149.104.35.5,9888,true,MRS,Europe,Marseille,94 ms,3913 kB/s
-149.104.35.71,9888,true,MRS,Europe,Marseille,128 ms,3868 kB/s
-154.197.92.73,9888,true,MRS,Europe,Marseille,67 ms,3789 kB/s
-149.104.35.4,9888,true,MRS,Europe,Marseille,87 ms,3756 kB/s
-154.194.64.132,9888,true,MRS,Europe,Marseille,103 ms,3708 kB/s
-149.104.35.114,9888,true,MRS,Europe,Marseille,94 ms,3695 kB/s
-149.104.35.77,9888,true,MRS,Europe,Marseille,103 ms,3685 kB/s
-149.104.35.108,9888,true,MRS,Europe,Marseille,68 ms,3684 kB/s
-149.104.35.73,9888,true,MRS,Europe,Marseille,91 ms,3653 kB/s
-149.104.35.111,9888,true,MRS,Europe,Marseille,127 ms,3644 kB/s
-149.104.34.26,9888,true,MRS,Europe,Marseille,77 ms,3624 kB/s
-154.197.92.93,9888,true,MRS,Europe,Marseille,69 ms,3615 kB/s
-154.197.92.88,9888,true,MRS,Europe,Marseille,75 ms,3588 kB/s
-149.104.35.52,9888,true,MRS,Europe,Marseille,91 ms,3574 kB/s
-149.104.35.72,9888,true,MRS,Europe,Marseille,88 ms,3562 kB/s
-154.197.92.92,9888,true,MRS,Europe,Marseille,73 ms,3560 kB/s
-149.104.35.103,9888,true,MRS,Europe,Marseille,126 ms,3554 kB/s
-154.194.64.135,9888,true,MRS,Europe,Marseille,117 ms,3541 kB/s
-154.197.92.80,9888,true,MRS,Europe,Marseille,74 ms,3474 kB/s
-149.104.35.90,9888,true,MRS,Europe,Marseille,116 ms,3427 kB/s
-154.197.92.77,9888,true,MRS,Europe,Marseille,73 ms,3394 kB/s
-149.104.35.2,9888,true,MRS,Europe,Marseille,87 ms,3390 kB/s
-149.104.35.59,9888,true,MRS,Europe,Marseille,68 ms,3350 kB/s
-149.104.35.88,9888,true,MRS,Europe,Marseille,100 ms,3302 kB/s
-154.197.92.67,9888,true,MRS,Europe,Marseille,83 ms,3291 kB/s
-149.104.35.92,9888,true,MRS,Europe,Marseille,90 ms,3235 kB/s
-154.197.92.72,9888,true,MRS,Europe,Marseille,74 ms,3215 kB/s
-154.197.92.85,9888,true,MRS,Europe,Marseille,73 ms,3206 kB/s
-149.104.35.81,9888,true,MRS,Europe,Marseille,99 ms,3199 kB/s
-149.104.35.58,9888,true,MRS,Europe,Marseille,79 ms,3196 kB/s
-154.197.92.91,9888,true,MRS,Europe,Marseille,76 ms,3188 kB/s
-149.104.35.82,9888,true,MRS,Europe,Marseille,100 ms,3167 kB/s
-149.104.35.99,9888,true,MRS,Europe,Marseille,100 ms,3162 kB/s
-149.104.35.86,9888,true,MRS,Europe,Marseille,112 ms,3141 kB/s
-149.104.35.3,9888,true,MRS,Europe,Marseille,104 ms,3116 kB/s
-149.104.35.112,9888,true,MRS,Europe,Marseille,136 ms,3087 kB/s
-149.104.35.105,9888,true,MRS,Europe,Marseille,111 ms,3084 kB/s
-149.104.35.53,9888,true,MRS,Europe,Marseille,90 ms,3057 kB/s
-154.197.92.120,9888,true,MRS,Europe,Marseille,118 ms,3046 kB/s
-149.104.34.29,9888,true,MRS,Europe,Marseille,79 ms,3023 kB/s
-149.104.35.83,9888,true,MRS,Europe,Marseille,86 ms,3012 kB/s
-103.99.179.39,443,true,LAX,North America,Los Angeles,195 ms,2964 kB/s
-149.104.35.66,9888,true,MRS,Europe,Marseille,126 ms,2913 kB/s
-154.197.92.101,9888,true,MRS,Europe,Marseille,98 ms,2828 kB/s
-154.194.64.138,9888,true,MRS,Europe,Marseille,111 ms,2811 kB/s
-154.197.92.75,9888,true,MRS,Europe,Marseille,72 ms,2803 kB/s
-154.197.92.86,9888,true,MRS,Europe,Marseille,69 ms,2802 kB/s
-154.194.64.137,9888,true,MRS,Europe,Marseille,78 ms,2800 kB/s
-154.197.92.110,9888,true,MRS,Europe,Marseille,89 ms,2518 kB/s
-154.194.64.130,9888,true,MRS,Europe,Marseille,98 ms,2227 kB/s
-154.197.92.124,9888,true,MRS,Europe,Marseille,102 ms,1973 kB/s
-149.104.34.213,9888,true,MRS,Europe,Marseille,84 ms,1833 kB/s
-154.197.92.123,9888,true,MRS,Europe,Marseille,86 ms,1820 kB/s
-149.104.34.27,9888,true,MRS,Europe,Marseille,108 ms,1810 kB/s
-172.247.15.240,34237,true,LAX,North America,Los Angeles,181 ms,1772 kB/s
-172.247.123.56,34237,true,LAX,North America,Los Angeles,191 ms,1734 kB/s
-154.197.92.106,9888,true,MRS,Europe,Marseille,97 ms,1628 kB/s
-149.104.34.214,9888,true,MRS,Europe,Marseille,90 ms,1561 kB/s
-154.197.92.115,9888,true,MRS,Europe,Marseille,117 ms,1535 kB/s
-149.104.32.74,9888,true,MRS,Europe,Marseille,179 ms,1487 kB/s
-154.197.92.117,9888,true,MRS,Europe,Marseille,107 ms,1399 kB/s
-154.197.92.118,9888,true,MRS,Europe,Marseille,100 ms,1209 kB/s
-38.6.190.192,2087,true,LAX,North America,Los Angeles,201 ms,1084 kB/s
-103.99.178.62,13241,true,LAX,North America,Los Angeles,179 ms,1072 kB/s
-103.99.178.62,51794,true,LAX,North America,Los Angeles,187 ms,1027 kB/s
-149.104.33.139,9888,true,MRS,Europe,Marseille,188 ms,1017 kB/s
-38.6.190.192,2083,true,LAX,North America,Los Angeles,219 ms,972 kB/s
-149.104.33.137,9888,true,MRS,Europe,Marseille,182 ms,963 kB/s
-172.247.21.125,443,true,LAX,North America,Los Angeles,204 ms,888 kB/s
-149.104.34.210,9888,true,MRS,Europe,Marseille,103 ms,790 kB/s
-149.104.34.211,9888,true,MRS,Europe,Marseille,87 ms,780 kB/s
-103.99.178.62,31940,true,LAX,North America,Los Angeles,173 ms,777 kB/s
-23.225.195.46,14369,true,LAX,North America,Los Angeles,185 ms,624 kB/s
-154.197.92.119,9888,true,MRS,Europe,Marseille,118 ms,486 kB/s
-154.197.92.109,9888,true,MRS,Europe,Marseille,118 ms,477 kB/s
-154.197.92.113,9888,true,MRS,Europe,Marseille,121 ms,454 kB/s
-154.197.92.121,9888,true,MRS,Europe,Marseille,116 ms,241 kB/s
-149.104.32.78,9888,true,MRS,Europe,Marseille,211 ms,166 kB/s
-2.56.255.16,443,true,LAX,North America,Los Angeles,188 ms,0 kB/s
-154.197.92.84,9888,true,MRS,Europe,Marseille,76 ms,0 kB/s
-149.104.35.110,9888,true,MRS,Europe,Marseille,129 ms,0 kB/s
+154.197.92.91,9888,true,MRS,Europe,Marseille,80 ms,5493 kB/s
+149.104.35.89,9888,true,MRS,Europe,Marseille,126 ms,5378 kB/s
+149.104.34.211,9888,true,MRS,Europe,Marseille,101 ms,5259 kB/s
+149.104.35.55,9888,true,MRS,Europe,Marseille,102 ms,5087 kB/s
+154.197.92.117,9888,true,MRS,Europe,Marseille,103 ms,5005 kB/s
+154.197.92.92,9888,true,MRS,Europe,Marseille,75 ms,4712 kB/s
+154.197.92.70,9888,true,MRS,Europe,Marseille,83 ms,4650 kB/s
+149.104.34.214,9888,true,MRS,Europe,Marseille,93 ms,4589 kB/s
+149.104.35.53,9888,true,MRS,Europe,Marseille,72 ms,4548 kB/s
+154.194.64.138,9888,true,MRS,Europe,Marseille,98 ms,4492 kB/s
+149.104.35.77,9888,true,MRS,Europe,Marseille,72 ms,4466 kB/s
+149.104.35.125,9888,true,MRS,Europe,Marseille,116 ms,4458 kB/s
+154.194.64.132,9888,true,MRS,Europe,Marseille,76 ms,4440 kB/s
+149.104.35.71,9888,true,MRS,Europe,Marseille,76 ms,4439 kB/s
+149.104.35.73,9888,true,MRS,Europe,Marseille,109 ms,4433 kB/s
+154.197.92.73,9888,true,MRS,Europe,Marseille,80 ms,4423 kB/s
+154.194.64.137,9888,true,MRS,Europe,Marseille,66 ms,4354 kB/s
+149.104.35.5,9888,true,MRS,Europe,Marseille,113 ms,4306 kB/s
+149.104.35.92,9888,true,MRS,Europe,Marseille,76 ms,4290 kB/s
+154.197.92.106,9888,true,MRS,Europe,Marseille,79 ms,4290 kB/s
+149.104.35.70,9888,true,MRS,Europe,Marseille,66 ms,4219 kB/s
+149.104.35.66,9888,true,MRS,Europe,Marseille,76 ms,4218 kB/s
+149.104.35.81,9888,true,MRS,Europe,Marseille,85 ms,4203 kB/s
+149.104.35.108,9888,true,MRS,Europe,Marseille,117 ms,4190 kB/s
+149.104.35.110,9888,true,MRS,Europe,Marseille,80 ms,4164 kB/s
+149.104.35.51,9888,true,MRS,Europe,Marseille,123 ms,4098 kB/s
+149.104.35.74,9888,true,MRS,Europe,Marseille,83 ms,4079 kB/s
+149.104.34.210,9888,true,MRS,Europe,Marseille,118 ms,4065 kB/s
+149.104.35.111,9888,true,MRS,Europe,Marseille,126 ms,4021 kB/s
+149.104.35.115,9888,true,MRS,Europe,Marseille,73 ms,4019 kB/s
+149.104.34.213,9888,true,MRS,Europe,Marseille,101 ms,4005 kB/s
+149.104.35.2,9888,true,MRS,Europe,Marseille,122 ms,3999 kB/s
+149.104.35.99,9888,true,MRS,Europe,Marseille,92 ms,3965 kB/s
+149.104.35.96,9888,true,MRS,Europe,Marseille,108 ms,3936 kB/s
+154.197.92.121,9888,true,MRS,Europe,Marseille,115 ms,3898 kB/s
+149.104.35.105,9888,true,MRS,Europe,Marseille,98 ms,3895 kB/s
+154.197.92.82,9888,true,MRS,Europe,Marseille,70 ms,3881 kB/s
+149.104.35.58,9888,true,MRS,Europe,Marseille,69 ms,3847 kB/s
+154.197.92.72,9888,true,MRS,Europe,Marseille,73 ms,3825 kB/s
+154.197.92.75,9888,true,MRS,Europe,Marseille,78 ms,3821 kB/s
+154.197.92.86,9888,true,MRS,Europe,Marseille,66 ms,3798 kB/s
+149.104.35.114,9888,true,MRS,Europe,Marseille,99 ms,3779 kB/s
+154.197.92.115,9888,true,MRS,Europe,Marseille,77 ms,3742 kB/s
+149.104.35.4,9888,true,MRS,Europe,Marseille,124 ms,3713 kB/s
+149.104.35.52,9888,true,MRS,Europe,Marseille,82 ms,3699 kB/s
+154.197.92.80,9888,true,MRS,Europe,Marseille,68 ms,3685 kB/s
+154.197.92.93,9888,true,MRS,Europe,Marseille,74 ms,3641 kB/s
+154.197.92.88,9888,true,MRS,Europe,Marseille,70 ms,3553 kB/s
+149.104.35.124,9888,true,MRS,Europe,Marseille,88 ms,3533 kB/s
+149.104.35.84,9888,true,MRS,Europe,Marseille,66 ms,3527 kB/s
+154.197.92.67,9888,true,MRS,Europe,Marseille,118 ms,3496 kB/s
+149.104.35.112,9888,true,MRS,Europe,Marseille,120 ms,3437 kB/s
+103.235.18.61,34237,true,HKG,Asia Pacific,Hong Kong,67 ms,3423 kB/s
+149.104.35.90,9888,true,MRS,Europe,Marseille,77 ms,3422 kB/s
+149.104.35.88,9888,true,MRS,Europe,Marseille,76 ms,3412 kB/s
+149.104.35.82,9888,true,MRS,Europe,Marseille,68 ms,3404 kB/s
+154.197.92.84,9888,true,MRS,Europe,Marseille,72 ms,3402 kB/s
+149.104.35.98,9888,true,MRS,Europe,Marseille,97 ms,3380 kB/s
+149.104.33.182,9888,true,MRS,Europe,Marseille,170 ms,3352 kB/s
+154.197.92.110,9888,true,MRS,Europe,Marseille,92 ms,3340 kB/s
+149.104.35.72,9888,true,MRS,Europe,Marseille,80 ms,3314 kB/s
+154.194.64.130,9888,true,MRS,Europe,Marseille,67 ms,3311 kB/s
+149.104.35.80,9888,true,MRS,Europe,Marseille,102 ms,3291 kB/s
+154.194.64.131,9888,true,MRS,Europe,Marseille,71 ms,3231 kB/s
+154.197.92.85,9888,true,MRS,Europe,Marseille,70 ms,3167 kB/s
+149.104.35.3,9888,true,MRS,Europe,Marseille,118 ms,3124 kB/s
+154.194.64.135,9888,true,MRS,Europe,Marseille,83 ms,3113 kB/s
+149.104.35.123,9888,true,MRS,Europe,Marseille,116 ms,3113 kB/s
+149.104.35.59,9888,true,MRS,Europe,Marseille,71 ms,3093 kB/s
+149.104.35.106,9888,true,MRS,Europe,Marseille,68 ms,3083 kB/s
+154.197.92.81,9888,true,MRS,Europe,Marseille,76 ms,3072 kB/s
+149.104.35.83,9888,true,MRS,Europe,Marseille,92 ms,3070 kB/s
+149.104.34.28,9888,true,MRS,Europe,Marseille,67 ms,2991 kB/s
+149.104.34.29,9888,true,MRS,Europe,Marseille,116 ms,2953 kB/s
+149.104.35.86,9888,true,MRS,Europe,Marseille,121 ms,2924 kB/s
+149.104.35.94,9888,true,MRS,Europe,Marseille,107 ms,2911 kB/s
+154.197.92.77,9888,true,MRS,Europe,Marseille,72 ms,2849 kB/s
+154.197.92.66,9888,true,MRS,Europe,Marseille,123 ms,2812 kB/s
+154.197.92.118,9888,true,MRS,Europe,Marseille,112 ms,2796 kB/s
+149.104.32.74,9888,true,MRS,Europe,Marseille,176 ms,2635 kB/s
+154.197.92.120,9888,true,MRS,Europe,Marseille,85 ms,2492 kB/s
+103.94.185.165,23429,true,LAX,North America,Los Angeles,180 ms,2476 kB/s
+149.104.35.103,9888,true,MRS,Europe,Marseille,101 ms,2476 kB/s
+154.197.92.101,9888,true,MRS,Europe,Marseille,86 ms,2193 kB/s
+154.197.92.103,9888,true,MRS,Europe,Marseille,91 ms,2041 kB/s
+154.197.92.123,9888,true,MRS,Europe,Marseille,126 ms,1935 kB/s
+149.104.34.27,9888,true,MRS,Europe,Marseille,93 ms,1919 kB/s
+154.197.92.113,9888,true,MRS,Europe,Marseille,102 ms,1481 kB/s
+149.104.33.169,9888,true,MRS,Europe,Marseille,203 ms,1431 kB/s
+103.99.179.39,443,true,LAX,North America,Los Angeles,203 ms,1430 kB/s
+23.225.195.46,14369,true,LAX,North America,Los Angeles,183 ms,1376 kB/s
+154.197.92.119,9888,true,MRS,Europe,Marseille,111 ms,1237 kB/s
+172.247.123.56,34237,true,LAX,North America,Los Angeles,186 ms,1190 kB/s
+38.6.190.192,2083,true,LAX,North America,Los Angeles,215 ms,1135 kB/s
+38.6.190.192,2087,true,LAX,North America,Los Angeles,209 ms,1065 kB/s
+103.99.178.62,31940,true,LAX,North America,Los Angeles,211 ms,1045 kB/s
+103.99.178.62,51794,true,LAX,North America,Los Angeles,190 ms,1036 kB/s
+103.99.178.62,13241,true,LAX,North America,Los Angeles,207 ms,1029 kB/s
+154.197.92.109,9888,true,MRS,Europe,Marseille,80 ms,1022 kB/s
+149.104.32.78,9888,true,MRS,Europe,Marseille,219 ms,1001 kB/s
+149.104.34.26,9888,true,MRS,Europe,Marseille,79 ms,975 kB/s
+154.197.92.124,9888,true,MRS,Europe,Marseille,87 ms,924 kB/s
+172.247.21.125,443,true,LAX,North America,Los Angeles,189 ms,879 kB/s
+149.104.33.183,9888,true,MRS,Europe,Marseille,228 ms,784 kB/s
+172.247.15.240,34237,true,LAX,North America,Los Angeles,188 ms,677 kB/s
