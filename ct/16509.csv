@@ -1,30 +1,36 @@
 ﻿IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
-13.50.173.22,8443,true,ARN,Europe,Stockholm,191 ms,9145 kB/s
-13.53.54.176,8080,true,ARN,Europe,Stockholm,182 ms,8216 kB/s
-13.53.132.96,8080,true,ARN,Europe,Stockholm,191 ms,7178 kB/s
-13.53.81.150,2083,true,ARN,Europe,Stockholm,204 ms,5360 kB/s
-13.41.76.64,8080,true,LHR,Europe,London,183 ms,4898 kB/s
-13.53.51.77,8080,true,ARN,Europe,Stockholm,204 ms,4330 kB/s
-204.110.220.79,80,true,SEA,North America,Seattle,204 ms,3958 kB/s
-204.110.220.196,80,true,SEA,North America,Seattle,219 ms,3708 kB/s
-99.83.209.185,443,true,IAD,North America,Ashburn,105 ms,3248 kB/s
-15.156.203.151,8443,true,DFW,North America,Dallas,243 ms,2165 kB/s
-13.51.55.184,2053,true,ARN,Europe,Stockholm,196 ms,1241 kB/s
-204.110.220.87,80,true,SEA,North America,Seattle,203 ms,1049 kB/s
-13.125.218.78,443,true,ICN,Asia Pacific,Seoul,247 ms,636 kB/s
-3.98.54.22,8443,true,YUL,North America,Montréal,249 ms,336 kB/s
-13.201.221.231,443,true,BOM,Asia Pacific,Mumbai,296 ms,320 kB/s
-3.101.110.90,80,true,SJC,North America,San Jose,171 ms,291 kB/s
-204.110.220.189,80,true,SEA,North America,Seattle,200 ms,280 kB/s
-204.110.223.83,80,true,CMH,North America,Columbus,236 ms,224 kB/s
-35.167.93.200,443,true,SEA,North America,Seattle,197 ms,153 kB/s
-44.227.22.10,443,true,SEA,North America,Seattle,216 ms,92 kB/s
-50.112.166.63,443,true,SEA,North America,Seattle,225 ms,92 kB/s
-18.135.188.86,443,true,LHR,Europe,London,192 ms,80 kB/s
-15.157.7.168,443,true,DFW,North America,Dallas,253 ms,70 kB/s
-204.110.223.199,80,true,CMH,North America,Columbus,235 ms,61 kB/s
-3.98.73.243,443,true,DFW,North America,Dallas,254 ms,57 kB/s
-3.111.155.29,443,true,BOM,Asia Pacific,Mumbai,301 ms,54 kB/s
-18.189.94.250,443,true,CMH,North America,Columbus,261 ms,54 kB/s
-3.99.106.179,443,true,DFW,North America,Dallas,256 ms,54 kB/s
-13.49.166.245,443,true,ARN,Europe,Stockholm,201 ms,12 kB/s
+204.110.221.170,80,true,SEA,North America,Seattle,200 ms,6485 kB/s
+13.53.51.77,8080,true,ARN,Europe,Stockholm,184 ms,5993 kB/s
+3.101.110.90,80,true,SJC,North America,San Jose,195 ms,5931 kB/s
+13.51.55.184,2053,true,ARN,Europe,Stockholm,205 ms,5564 kB/s
+13.53.81.150,2083,true,ARN,Europe,Stockholm,182 ms,4600 kB/s
+13.50.173.22,8443,true,ARN,Europe,Stockholm,195 ms,2948 kB/s
+13.53.132.96,8080,true,ARN,Europe,Stockholm,194 ms,2550 kB/s
+15.156.203.151,8443,true,DFW,North America,Dallas,249 ms,2156 kB/s
+13.201.221.231,443,true,BOM,Asia Pacific,Mumbai,302 ms,1862 kB/s
+18.189.139.61,443,true,ORD,North America,Chicago,239 ms,1561 kB/s
+13.53.54.176,8080,true,ARN,Europe,Stockholm,171 ms,1107 kB/s
+204.110.220.94,80,true,SEA,North America,Seattle,206 ms,696 kB/s
+204.110.220.79,80,true,SEA,North America,Seattle,198 ms,368 kB/s
+3.98.54.22,8443,true,YUL,North America,Montréal,246 ms,259 kB/s
+204.110.221.35,80,true,SEA,North America,Seattle,198 ms,227 kB/s
+204.110.220.34,80,true,SEA,North America,Seattle,202 ms,137 kB/s
+204.110.223.83,80,true,CMH,North America,Columbus,237 ms,128 kB/s
+13.41.76.64,8080,true,LHR,Europe,London,198 ms,109 kB/s
+204.110.220.145,80,true,SEA,North America,Seattle,205 ms,105 kB/s
+35.167.93.200,443,true,SEA,North America,Seattle,201 ms,99 kB/s
+44.227.22.10,443,true,SEA,North America,Seattle,217 ms,92 kB/s
+204.110.223.75,80,true,CMH,North America,Columbus,238 ms,83 kB/s
+204.110.223.199,80,true,CMH,North America,Columbus,234 ms,80 kB/s
+15.157.7.168,443,true,DFW,North America,Dallas,258 ms,77 kB/s
+18.189.94.250,443,true,CMH,North America,Columbus,250 ms,73 kB/s
+18.135.188.86,443,true,LHR,Europe,London,205 ms,70 kB/s
+3.98.73.243,443,true,DFW,North America,Dallas,253 ms,64 kB/s
+3.111.155.29,443,true,BOM,Asia Pacific,Mumbai,289 ms,51 kB/s
+204.110.223.86,80,true,CMH,North America,Columbus,245 ms,45 kB/s
+50.112.166.63,443,true,SEA,North America,Seattle,222 ms,45 kB/s
+3.99.106.179,443,true,DFW,North America,Dallas,256 ms,41 kB/s
+13.49.166.245,443,true,ARN,Europe,Stockholm,198 ms,18 kB/s
+99.83.209.185,443,true,IAD,North America,Ashburn,108 ms,1 kB/s
+13.125.218.78,443,true,ICN,Asia Pacific,Seoul,214 ms,0 kB/s
+13.40.128.14,8443,true,LHR,Europe,London,170 ms,0 kB/s
