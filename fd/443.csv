@@ -1,16 +1,4 @@
 IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
-8.222.67.73,443,true,SJC,North America,San Jose,14 ms,16933 kB/s
-138.3.240.244,443,true,FRA,Europe,Frankfurt,15 ms,6011 kB/s
-141.147.50.203,443,true,FRA,Europe,Frankfurt,13 ms,5925 kB/s
-130.162.33.100,443,true,FRA,Europe,Frankfurt,13 ms,5568 kB/s
-141.148.227.19,443,true,AMS,Europe,Amsterdam,245 ms,5496 kB/s
-150.230.122.76,443,true,LHR,Europe,London,16 ms,5343 kB/s
-192.9.157.76,443,true,SJC,North America,San Jose,192 ms,334 kB/s
-168.138.51.142,443,true,KIX,Asia Pacific,Osaka,10 ms,256 kB/s
-140.238.158.238,443,true,YYZ,North America,Toronto,14 ms,197 kB/s
-152.67.212.141,443,true,ICN,Asia Pacific,Seoul,170 ms,116 kB/s
-129.146.243.241,443,true,LAX,North America,Los Angeles,15 ms,0 kB/s
-193.123.62.153,443,true,AMS,Europe,Amsterdam,20 ms,0 kB/s
-138.2.75.91,443,true,SIN,Asia Pacific,Singapore,12 ms,0 kB/s
-140.238.88.47,443,true,LHR,Europe,London,18 ms,0 kB/s
-168.138.50.249,443,true,KIX,Asia Pacific,Osaka,17 ms,0 kB/s
+129.153.223.37,443,true,LAX,North America,Los Angeles,204 ms,534 kB/s
+138.2.61.180,443,true,KIX,Asia Pacific,Osaka,192 ms,283 kB/s
+140.238.201.118,443,true,SYD,Oceania,Sydney,341 ms,0 kB/s
