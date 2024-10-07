@@ -1,4 +1,3 @@
-IP鍦板潃,绔彛,TLS,鏁版嵁涓績,鍦板尯,鍩庡競,缃戠粶寤惰繜,涓嬭浇閫熷害
-129.153.223.37,443,true,LAX,North America,Los Angeles,204 ms,534 kB/s
-138.2.61.180,443,true,KIX,Asia Pacific,Osaka,192 ms,283 kB/s
-140.238.201.118,443,true,SYD,Oceania,Sydney,341 ms,0 kB/s
+IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
+192.9.157.76,443,true,SJC,North America,San Jose,193 ms,477 kB/s
+158.101.15.48,443,true,LAX,North America,Los Angeles,198 ms,343 kB/s

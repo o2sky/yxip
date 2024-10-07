@@ -1,11 +1,11 @@
-IP鍦板潃,绔彛,TLS,鏁版嵁涓績,鍦板尯,鍩庡競,缃戠粶寤惰繜,涓嬭浇閫熷害
-150.230.20.156,8443,true,AMS,Europe,Amsterdam,275 ms,5371 kB/s
-129.159.132.0,8443,true,TLV,Middle East,Tel Aviv,273 ms,2984 kB/s
-132.226.163.224,8443,true,GRU,South America,S茫o Paulo,389 ms,197 kB/s
-8.213.206.252,8443,true,SIN,Asia Pacific,Singapore,400 ms,188 kB/s
-144.21.51.51,8443,true,LHR,Europe,London,305 ms,108 kB/s
-129.151.198.3,8443,true,ARN,Europe,Stockholm,278 ms,0 kB/s
-141.148.242.113,8443,true,AMS,Europe,Amsterdam,264 ms,0 kB/s
-132.145.54.84,8443,true,LHR,Europe,London,263 ms,0 kB/s
-143.47.243.144,8443,true,LHR,Europe,London,282 ms,0 kB/s
-141.147.92.143,8443,true,LHR,Europe,London,266 ms,0 kB/s
+IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
+129.159.132.0,8443,true,TLV,Middle East,Tel Aviv,278 ms,5472 kB/s
+141.144.198.113,8443,true,AMS,Europe,Amsterdam,277 ms,5315 kB/s
+132.145.54.84,8443,true,LHR,Europe,London,274 ms,3994 kB/s
+141.147.85.167,8443,true,LHR,Europe,London,281 ms,515 kB/s
+158.101.199.249,8443,true,AMS,Europe,Amsterdam,289 ms,497 kB/s
+144.21.51.51,8443,true,LHR,Europe,London,275 ms,376 kB/s
+141.148.242.113,8443,true,AMS,Europe,Amsterdam,246 ms,343 kB/s
+129.151.198.3,8443,true,ARN,Europe,Stockholm,286 ms,334 kB/s
+143.47.243.144,8443,true,LHR,Europe,London,273 ms,101 kB/s
+132.226.163.224,8443,true,GRU,South America,S?o Paulo,379 ms,49 kB/s
