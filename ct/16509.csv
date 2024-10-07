@@ -1,34 +1,30 @@
 ﻿IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
-99.83.209.185,443,true,IAD,North America,Ashburn,98 ms,9743 kB/s
-13.53.81.150,2083,true,ARN,Europe,Stockholm,188 ms,8876 kB/s
-204.110.221.48,80,true,SEA,North America,Seattle,199 ms,7405 kB/s
-204.110.221.1,80,true,SEA,North America,Seattle,203 ms,6964 kB/s
-13.50.173.22,8443,true,ARN,Europe,Stockholm,197 ms,6820 kB/s
-13.53.51.77,8080,true,ARN,Europe,Stockholm,195 ms,6160 kB/s
-204.110.221.231,80,true,SEA,North America,Seattle,204 ms,5724 kB/s
-13.51.55.184,2053,true,ARN,Europe,Stockholm,173 ms,5488 kB/s
-204.110.220.249,80,true,SEA,North America,Seattle,202 ms,4828 kB/s
-15.156.203.151,8443,true,YUL,North America,Montréal,251 ms,4472 kB/s
-13.201.221.231,443,true,BOM,Asia Pacific,Mumbai,313 ms,2889 kB/s
-3.101.110.90,80,true,SJC,North America,San Jose,194 ms,2734 kB/s
-13.53.54.176,8080,true,ARN,Europe,Stockholm,191 ms,2434 kB/s
-35.167.93.200,443,true,SEA,North America,Seattle,203 ms,2412 kB/s
-13.41.76.64,8080,true,LHR,Europe,London,169 ms,1673 kB/s
-204.110.223.6,80,true,CMH,North America,Columbus,236 ms,1647 kB/s
-13.53.132.96,8080,true,ARN,Europe,Stockholm,180 ms,1439 kB/s
-204.110.221.40,80,true,SEA,North America,Seattle,204 ms,956 kB/s
-204.110.223.83,80,true,ORD,North America,Chicago,248 ms,955 kB/s
-204.110.220.135,80,true,SEA,North America,Seattle,204 ms,617 kB/s
-3.98.54.22,8443,true,YUL,North America,Montréal,249 ms,489 kB/s
-204.110.221.121,80,true,SEA,North America,Seattle,208 ms,380 kB/s
-18.135.188.86,443,true,LHR,Europe,London,178 ms,128 kB/s
-3.99.106.179,443,true,YUL,North America,Montréal,255 ms,92 kB/s
-3.98.73.243,443,true,YUL,North America,Montréal,250 ms,89 kB/s
-50.112.166.63,443,true,SEA,North America,Seattle,201 ms,86 kB/s
-44.227.22.10,443,true,SEA,North America,Seattle,218 ms,83 kB/s
-18.189.94.250,443,true,ORD,North America,Chicago,255 ms,70 kB/s
-15.157.7.168,443,true,YUL,North America,Montréal,275 ms,64 kB/s
-3.111.155.29,443,true,BOM,Asia Pacific,Mumbai,293 ms,51 kB/s
-13.49.166.245,443,true,ARN,Europe,Stockholm,199 ms,11 kB/s
-13.125.218.78,443,true,ICN,Asia Pacific,Seoul,248 ms,0 kB/s
-13.40.128.14,8443,true,LHR,Europe,London,233 ms,0 kB/s
+13.53.51.77,8080,true,ARN,Europe,Stockholm,179 ms,9479 kB/s
+13.41.76.64,8080,true,LHR,Europe,London,179 ms,9104 kB/s
+13.53.132.96,8080,true,ARN,Europe,Stockholm,187 ms,8814 kB/s
+3.101.110.90,80,true,SJC,North America,San Jose,187 ms,8552 kB/s
+13.50.173.22,8443,true,ARN,Europe,Stockholm,202 ms,7525 kB/s
+204.110.221.179,80,true,SEA,North America,Seattle,204 ms,7266 kB/s
+13.40.128.14,8443,true,LHR,Europe,London,188 ms,7075 kB/s
+204.110.220.55,80,true,SEA,North America,Seattle,206 ms,6865 kB/s
+13.53.81.150,2083,true,ARN,Europe,Stockholm,213 ms,4665 kB/s
+13.51.55.184,2053,true,ARN,Europe,Stockholm,237 ms,4069 kB/s
+204.110.221.176,80,true,SEA,North America,Seattle,213 ms,1721 kB/s
+13.53.54.176,8080,true,ARN,Europe,Stockholm,175 ms,1609 kB/s
+13.125.218.78,443,true,ICN,Asia Pacific,Seoul,236 ms,1327 kB/s
+15.156.203.151,8443,true,YUL,North America,Montréal,259 ms,1241 kB/s
+35.167.93.200,443,true,SEA,North America,Seattle,195 ms,689 kB/s
+13.201.221.231,443,true,BOM,Asia Pacific,Mumbai,304 ms,662 kB/s
+204.110.223.229,80,true,CMH,North America,Columbus,232 ms,172 kB/s
+18.135.188.86,443,true,LHR,Europe,London,173 ms,128 kB/s
+44.227.22.10,443,true,SEA,North America,Seattle,198 ms,96 kB/s
+3.99.106.179,443,true,YUL,North America,Montréal,255 ms,89 kB/s
+3.98.73.243,443,true,YUL,North America,Montréal,276 ms,70 kB/s
+15.157.7.168,443,true,YUL,North America,Montréal,253 ms,67 kB/s
+204.110.220.135,80,true,SEA,North America,Seattle,203 ms,61 kB/s
+3.111.155.29,443,true,BOM,Asia Pacific,Mumbai,288 ms,61 kB/s
+50.112.166.63,443,true,SEA,North America,Seattle,215 ms,57 kB/s
+99.83.209.185,443,true,IAD,North America,Ashburn,101 ms,40 kB/s
+13.49.166.245,443,true,ARN,Europe,Stockholm,202 ms,13 kB/s
+18.189.94.250,443,true,CMH,North America,Columbus,238 ms,0 kB/s
+18.189.139.61,443,true,ORD,North America,Chicago,235 ms,0 kB/s
