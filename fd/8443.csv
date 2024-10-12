@@ -1,15 +1,10 @@
 IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
-141.144.198.113,8443,true,AMS,Europe,Amsterdam,286 ms,5780 kB/s
-193.123.93.103,8443,true,CDG,Europe,Paris,242 ms,5714 kB/s
-143.47.243.144,8443,true,LHR,Europe,London,280 ms,5628 kB/s
-158.101.199.249,8443,true,AMS,Europe,Amsterdam,289 ms,4928 kB/s
-141.147.85.167,8443,true,LHR,Europe,London,270 ms,437 kB/s
-141.148.242.113,8443,true,AMS,Europe,Amsterdam,258 ms,426 kB/s
-141.147.16.152,8443,true,FRA,Europe,Frankfurt,283 ms,265 kB/s
-132.226.163.224,8443,true,GRU,South America,S?o Paulo,369 ms,98 kB/s
-152.67.234.49,8443,true,SJC,North America,San Jose,206 ms,98 kB/s
-150.230.20.156,8443,true,AMS,Europe,Amsterdam,294 ms,95 kB/s
-129.159.132.0,8443,true,TLV,Middle East,Tel Aviv,373 ms,78 kB/s
-132.145.54.84,8443,true,LHR,Europe,London,259 ms,75 kB/s
-158.101.169.13,8443,true,FRA,Europe,Frankfurt,303 ms,68 kB/s
-141.147.61.116,8443,true,FRA,Europe,Frankfurt,297 ms,39 kB/s
+143.47.243.144,8443,true,LHR,Europe,London,286 ms,6075 kB/s
+141.144.198.113,8443,true,AMS,Europe,Amsterdam,269 ms,6057 kB/s
+141.148.242.113,8443,true,AMS,Europe,Amsterdam,4 ms,5657 kB/s
+132.145.54.84,8443,true,LHR,Europe,London,1 ms,3765 kB/s
+152.67.234.49,8443,true,SJC,North America,San Jose,0 ms,614 kB/s
+158.101.199.249,8443,true,AMS,Europe,Amsterdam,1 ms,304 kB/s
+141.147.85.167,8443,true,LHR,Europe,London,0 ms,265 kB/s
+141.147.16.152,8443,true,FRA,Europe,Frankfurt,1 ms,207 kB/s
+141.147.61.116,8443,true,FRA,Europe,Frankfurt,0 ms,0 kB/s
