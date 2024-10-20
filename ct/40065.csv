@@ -1,10 +1,9 @@
 ﻿IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
-103.99.179.39,443,true,LAX,North America,Los Angeles,172 ms,2654 kB/s
-172.247.15.240,34237,true,LAX,North America,Los Angeles,197 ms,960 kB/s
-172.247.21.125,443,true,LAX,North America,Los Angeles,183 ms,902 kB/s
-103.99.178.62,31940,true,LAX,North America,Los Angeles,177 ms,902 kB/s
-103.99.178.62,51794,true,LAX,North America,Los Angeles,173 ms,870 kB/s
-103.99.178.62,13241,true,LAX,North America,Los Angeles,186 ms,838 kB/s
-23.225.195.46,14369,true,LAX,North America,Los Angeles,199 ms,665 kB/s
-38.6.190.192,2087,true,LAX,North America,Los Angeles,216 ms,0 kB/s
-38.6.190.192,2083,true,LAX,North America,Los Angeles,200 ms,0 kB/s
+2.56.255.16,443,true,LAX,North America,Los Angeles,190 ms,10582 kB/s
+103.99.179.39,443,true,LAX,North America,Los Angeles,197 ms,2079 kB/s
+103.99.178.62,31940,true,LAX,North America,Los Angeles,177 ms,1004 kB/s
+103.99.178.62,13241,true,LAX,North America,Los Angeles,196 ms,924 kB/s
+172.247.21.125,443,true,LAX,North America,Los Angeles,180 ms,921 kB/s
+103.99.178.62,51794,true,LAX,North America,Los Angeles,183 ms,815 kB/s
+38.6.190.192,2083,true,LAX,North America,Los Angeles,226 ms,569 kB/s
+38.6.190.192,2087,true,LAX,North America,Los Angeles,209 ms,566 kB/s
