@@ -1,26 +1,24 @@
 ﻿IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
-164.152.26.70,2052,true,ORD,North America,Chicago,253 ms,5851 kB/s
-141.147.103.53,443,true,FRA,Europe,Frankfurt,259 ms,4731 kB/s
-164.152.26.70,2086,true,ORD,North America,Chicago,264 ms,4402 kB/s
-89.168.43.31,8443,true,CDG,Europe,Paris,266 ms,3979 kB/s
-141.148.236.154,443,true,FRA,Europe,Frankfurt,259 ms,3935 kB/s
-89.168.83.143,8443,true,FRA,Europe,Frankfurt,307 ms,3593 kB/s
-158.178.153.80,2096,true,AMS,Europe,Amsterdam,305 ms,3482 kB/s
-89.168.112.118,8443,true,FRA,Europe,Frankfurt,306 ms,3376 kB/s
-158.179.207.182,2053,true,ARN,Europe,Stockholm,270 ms,2476 kB/s
-158.180.49.11,8443,true,FRA,Europe,Frankfurt,302 ms,2316 kB/s
-158.179.207.182,8443,true,ARN,Europe,Stockholm,264 ms,1980 kB/s
-89.168.68.57,2053,true,FRA,Europe,Frankfurt,352 ms,1545 kB/s
-158.180.49.11,2053,true,FRA,Europe,Frankfurt,313 ms,1261 kB/s
-130.61.107.238,8443,true,FRA,Europe,Frankfurt,306 ms,1101 kB/s
-158.178.206.197,2053,true,CDG,Europe,Paris,260 ms,1017 kB/s
-158.178.206.197,8443,true,CDG,Europe,Paris,262 ms,972 kB/s
-89.168.68.57,8443,true,FRA,Europe,Frankfurt,316 ms,854 kB/s
-141.147.61.116,8443,true,FRA,Europe,Frankfurt,354 ms,374 kB/s
-89.168.43.31,2053,true,CDG,Europe,Paris,262 ms,307 kB/s
-150.230.34.116,443,true,SJC,North America,San Jose,199 ms,147 kB/s
-40.233.70.7,8443,true,YYZ,North America,Toronto,243 ms,54 kB/s
-152.70.249.67,443,true,ICN,Asia Pacific,Seoul,91 ms,22 kB/s
-132.145.127.203,2053,true,NRT,Asia Pacific,Tokyo,144 ms,0 kB/s
-192.18.159.129,443,true,YYZ,North America,Toronto,242 ms,0 kB/s
-140.238.88.47,443,true,LHR,Europe,London,255 ms,0 kB/s
+158.179.207.182,2053,true,ARN,Europe,Stockholm,268 ms,3836 kB/s
+158.178.153.80,2096,true,AMS,Europe,Amsterdam,299 ms,3682 kB/s
+89.168.112.118,8443,true,FRA,Europe,Frankfurt,313 ms,3100 kB/s
+158.180.49.11,8443,true,FRA,Europe,Frankfurt,308 ms,3036 kB/s
+89.168.83.143,8443,true,FRA,Europe,Frankfurt,302 ms,2946 kB/s
+89.168.43.31,8443,true,CDG,Europe,Paris,251 ms,2864 kB/s
+158.179.207.182,8443,true,ARN,Europe,Stockholm,290 ms,2390 kB/s
+164.152.26.70,2086,true,ORD,North America,Chicago,259 ms,2349 kB/s
+130.61.107.238,8443,true,FRA,Europe,Frankfurt,304 ms,1983 kB/s
+89.168.43.31,2053,true,CDG,Europe,Paris,256 ms,1874 kB/s
+164.152.26.70,2052,true,ORD,North America,Chicago,251 ms,1426 kB/s
+89.168.68.57,8443,true,FRA,Europe,Frankfurt,298 ms,771 kB/s
+150.230.34.116,443,true,SJC,North America,San Jose,199 ms,163 kB/s
+40.233.70.7,8443,true,YYZ,North America,Toronto,245 ms,134 kB/s
+89.168.68.57,2053,true,FRA,Europe,Frankfurt,306 ms,118 kB/s
+158.180.49.11,2053,true,FRA,Europe,Frankfurt,310 ms,112 kB/s
+146.235.59.153,2053,true,GRU,South America,São Paulo,375 ms,64 kB/s
+132.226.163.224,2053,true,GRU,South America,São Paulo,398 ms,18 kB/s
+146.235.59.153,8443,true,GRU,South America,São Paulo,378 ms,10 kB/s
+158.178.206.197,2053,true,CDG,Europe,Paris,253 ms,0 kB/s
+158.101.15.48,443,true,LAX,North America,Los Angeles,243 ms,0 kB/s
+192.18.159.129,443,true,YYZ,North America,Toronto,264 ms,0 kB/s
+132.145.127.203,8443,true,NRT,Asia Pacific,Tokyo,166 ms,0 kB/s
