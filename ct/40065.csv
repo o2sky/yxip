@@ -1,6 +1,12 @@
 ﻿IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
-23.225.195.46,14369,true,LAX,North America,Los Angeles,190 ms,1056 kB/s
-38.6.190.192,2087,true,LAX,North America,Los Angeles,190 ms,1049 kB/s
-172.247.21.125,443,true,LAX,North America,Los Angeles,174 ms,931 kB/s
-91.217.139.121,8443,true,LAX,North America,Los Angeles,204 ms,387 kB/s
-216.38.168.34,16384,true,LAX,North America,Los Angeles,183 ms,240 kB/s
+91.217.139.121,8443,true,LAX,North America,Los Angeles,207 ms,3426 kB/s
+103.235.18.61,34237,true,HKG,Asia Pacific,Hong Kong,77 ms,3381 kB/s
+172.247.123.56,34237,true,LAX,North America,Los Angeles,177 ms,1500 kB/s
+38.6.190.192,2087,true,LAX,North America,Los Angeles,203 ms,1148 kB/s
+103.99.178.62,31940,true,LAX,North America,Los Angeles,197 ms,1056 kB/s
+103.99.178.62,13241,true,LAX,North America,Los Angeles,184 ms,1040 kB/s
+103.99.178.62,51794,true,LAX,North America,Los Angeles,175 ms,1039 kB/s
+172.247.21.125,443,true,LAX,North America,Los Angeles,178 ms,918 kB/s
+216.38.168.34,16384,true,LAX,North America,Los Angeles,180 ms,243 kB/s
+23.225.195.46,14369,true,LAX,North America,Los Angeles,172 ms,236 kB/s
+23.225.64.72,25017,true,SIN,Asia Pacific,Singapore,114 ms,0 kB/s
