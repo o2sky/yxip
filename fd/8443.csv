@@ -1,8 +1,10 @@
 IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
-138.2.36.157,8443,true,KIX,Asia Pacific,Osaka,1 ms,8087 kB/s
-204.216.105.106,8443,true,YUL,North America,Montréal,1 ms,2846 kB/s
-129.158.198.241,8443,true,IAD,North America,Ashburn,1 ms,661 kB/s
-141.145.205.115,8443,true,CDG,Europe,Paris,1 ms,304 kB/s
-132.145.91.171,8443,true,ICN,Asia Pacific,Seoul,1 ms,256 kB/s
-158.101.215.45,8443,true,AMS,Europe,Amsterdam,1 ms,0 kB/s
-168.138.197.97,8443,true,NRT,Asia Pacific,Tokyo,1 ms,0 kB/s
+140.83.60.81,8443,true,KIX,Asia Pacific,Osaka,0 ms,8129 kB/s
+138.2.36.157,8443,true,KIX,Asia Pacific,Osaka,182 ms,7901 kB/s
+158.101.215.45,8443,true,AMS,Europe,Amsterdam,1 ms,6386 kB/s
+141.148.242.113,8443,true,AMS,Europe,Amsterdam,2 ms,525 kB/s
+129.158.198.241,8443,true,IAD,North America,Ashburn,1 ms,305 kB/s
+129.159.132.0,8443,true,TLV,Middle East,Tel Aviv,1 ms,108 kB/s
+158.101.199.249,8443,true,AMS,Europe,Amsterdam,1 ms,0 kB/s
+141.147.16.152,8443,true,FRA,Europe,Frankfurt,0 ms,0 kB/s
+143.47.243.144,8443,true,LHR,Europe,London,269 ms,0 kB/s
