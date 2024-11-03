@@ -1,37 +1,36 @@
 ﻿IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
-3.112.21.102,443,true,NRT,Asia Pacific,Tokyo,80 ms,23566 kB/s
-13.53.81.150,2083,true,ARN,Europe,Stockholm,204 ms,8625 kB/s
-13.41.76.64,8080,true,LHR,Europe,London,198 ms,8145 kB/s
-13.53.51.77,8080,true,ARN,Europe,Stockholm,200 ms,7903 kB/s
-13.50.173.22,8443,true,ARN,Europe,Stockholm,194 ms,6900 kB/s
-13.53.54.176,8080,true,OSL,Europe,Oslo,185 ms,6854 kB/s
-204.110.223.40,80,true,CMH,North America,Columbus,230 ms,5921 kB/s
-13.41.203.20,8080,true,LHR,Europe,London,202 ms,5545 kB/s
-3.7.108.69,443,true,BOM,Asia Pacific,Mumbai,292 ms,4811 kB/s
-204.110.221.179,80,true,YUL,North America,Montréal,249 ms,4759 kB/s
-204.110.221.20,80,true,YUL,North America,Montréal,251 ms,3353 kB/s
-204.110.223.255,80,true,CMH,North America,Columbus,252 ms,3112 kB/s
-204.110.223.177,80,true,CMH,North America,Columbus,267 ms,2438 kB/s
-204.110.221.121,80,true,YUL,North America,Montréal,260 ms,2268 kB/s
-18.189.94.250,443,true,CMH,North America,Columbus,229 ms,2097 kB/s
-204.110.221.1,80,true,YUL,North America,Montréal,257 ms,1967 kB/s
-13.49.166.245,443,true,ARN,Europe,Stockholm,186 ms,1033 kB/s
-43.206.192.211,443,true,NRT,Asia Pacific,Tokyo,79 ms,963 kB/s
-13.53.132.96,8080,true,ARN,Europe,Stockholm,194 ms,828 kB/s
-204.110.223.83,80,true,CMH,North America,Columbus,231 ms,819 kB/s
-35.167.93.200,443,true,SEA,North America,Seattle,220 ms,684 kB/s
-18.135.188.86,443,true,LHR,Europe,London,189 ms,118 kB/s
-44.226.147.29,443,true,SEA,North America,Seattle,204 ms,109 kB/s
-3.98.73.243,443,true,YUL,North America,Montréal,258 ms,93 kB/s
-18.135.67.188,443,true,LHR,Europe,London,197 ms,89 kB/s
-50.112.166.63,443,true,SEA,North America,Seattle,224 ms,86 kB/s
-3.111.155.29,443,true,BOM,Asia Pacific,Mumbai,294 ms,86 kB/s
-44.227.22.10,443,true,SEA,North America,Seattle,200 ms,83 kB/s
-3.99.106.179,443,true,YUL,North America,Montréal,252 ms,77 kB/s
-15.157.7.168,443,true,YUL,North America,Montréal,253 ms,70 kB/s
-204.110.220.59,80,true,SJC,North America,San Jose,194 ms,0 kB/s
-3.101.110.90,80,true,SJC,North America,San Jose,178 ms,0 kB/s
-204.110.220.55,80,true,SJC,North America,San Jose,180 ms,0 kB/s
-204.110.220.79,80,true,SJC,North America,San Jose,172 ms,0 kB/s
-99.83.209.185,443,true,IAD,North America,Ashburn,108 ms,0 kB/s
-13.233.5.49,443,true,BOM,Asia Pacific,Mumbai,288 ms,0 kB/s
+3.112.21.102,443,true,NRT,Asia Pacific,Tokyo,82 ms,21384 kB/s
+99.83.209.185,443,true,IAD,North America,Ashburn,110 ms,12192 kB/s
+13.49.166.245,443,true,ARN,Europe,Stockholm,204 ms,7749 kB/s
+13.50.173.22,8443,true,ARN,Europe,Stockholm,199 ms,7585 kB/s
+13.53.81.150,2083,true,ARN,Europe,Stockholm,193 ms,7412 kB/s
+13.41.76.64,8080,true,LHR,Europe,London,184 ms,6984 kB/s
+13.53.54.176,8080,true,ARN,Europe,Stockholm,196 ms,6475 kB/s
+13.53.132.96,8080,true,ARN,Europe,Stockholm,189 ms,5431 kB/s
+13.53.51.77,8080,true,ARN,Europe,Stockholm,202 ms,5074 kB/s
+204.110.221.20,80,true,YUL,North America,Montréal,249 ms,5051 kB/s
+204.110.223.83,80,true,IAD,North America,Ashburn,237 ms,5013 kB/s
+35.167.93.200,443,true,SEA,North America,Seattle,215 ms,4969 kB/s
+204.110.221.179,80,true,YUL,North America,Montréal,249 ms,4888 kB/s
+204.110.221.121,80,true,YUL,North America,Montréal,258 ms,4516 kB/s
+204.110.223.255,80,true,IAD,North America,Ashburn,268 ms,3951 kB/s
+13.41.203.20,8080,true,LHR,Europe,London,201 ms,3889 kB/s
+204.110.221.1,80,true,YUL,North America,Montréal,256 ms,3442 kB/s
+3.7.108.69,443,true,BOM,Asia Pacific,Mumbai,301 ms,2789 kB/s
+204.110.223.177,80,true,CMH,North America,Columbus,236 ms,1985 kB/s
+13.233.5.49,443,true,BOM,Asia Pacific,Mumbai,305 ms,948 kB/s
+43.206.192.211,443,true,NRT,Asia Pacific,Tokyo,89 ms,939 kB/s
+3.111.155.29,443,true,BOM,Asia Pacific,Mumbai,287 ms,531 kB/s
+204.110.223.40,80,true,IAD,North America,Ashburn,257 ms,492 kB/s
+13.229.159.215,443,true,SIN,Asia Pacific,Singapore,116 ms,316 kB/s
+15.157.7.168,443,true,YUL,North America,Montréal,252 ms,224 kB/s
+3.98.73.243,443,true,YUL,North America,Montréal,255 ms,185 kB/s
+18.135.188.86,443,true,LHR,Europe,London,191 ms,121 kB/s
+18.135.67.188,443,true,LHR,Europe,London,196 ms,112 kB/s
+44.226.147.29,443,true,SEA,North America,Seattle,204 ms,102 kB/s
+44.227.22.10,443,true,SEA,North America,Seattle,198 ms,93 kB/s
+50.112.166.63,443,true,SEA,North America,Seattle,214 ms,83 kB/s
+3.99.106.179,443,true,YUL,North America,Montréal,251 ms,80 kB/s
+18.189.94.250,443,true,IAD,North America,Ashburn,255 ms,77 kB/s
+3.101.110.90,80,true,SJC,North America,San Jose,174 ms,0 kB/s
+13.40.128.14,8443,true,LHR,Europe,London,188 ms,0 kB/s
