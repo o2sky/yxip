@@ -1,4 +1,0 @@
-IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
-131.186.27.112,2096,true,ICN,Asia Pacific,Seoul,4 ms,3034 kB/s
-168.138.212.196,2096,true,NRT,Asia Pacific,Tokyo,4 ms,294 kB/s
-129.80.188.174,2096,true,IAD,North America,Ashburn,4 ms,0 kB/s
