@@ -1,28 +1,36 @@
 IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
-47.89.151.17,443,true,IAD,North America,Ashburn,27 ms,6227 kB/s
-143.47.252.247,443,true,FRA,Europe,Frankfurt,23 ms,5927 kB/s
-141.147.159.250,443,true,KIX,Asia Pacific,Osaka,20 ms,5728 kB/s
-130.162.39.121,443,true,CDG,Europe,Paris,21 ms,5464 kB/s
-141.148.229.106,443,true,AMS,Europe,Amsterdam,23 ms,5170 kB/s
-47.242.91.144,443,true,HKG,Asia Pacific,Hong Kong,20 ms,4141 kB/s
-144.24.171.136,443,true,FRA,Europe,Frankfurt,25 ms,4023 kB/s
-132.226.114.74,443,true,LAX,North America,Los Angeles,21 ms,2236 kB/s
-129.146.7.98,443,true,LAX,North America,Los Angeles,22 ms,752 kB/s
-150.230.6.108,443,true,KIX,Asia Pacific,Osaka,22 ms,723 kB/s
-150.230.42.80,443,true,SJC,North America,San Jose,25 ms,670 kB/s
-129.146.46.164,443,true,LAX,North America,Los Angeles,222 ms,507 kB/s
-130.61.222.184,443,true,FRA,Europe,Frankfurt,39 ms,506 kB/s
-129.80.123.71,443,true,IAD,North America,Ashburn,11 ms,426 kB/s
-130.162.170.114,443,true,FRA,Europe,Frankfurt,21 ms,265 kB/s
-64.110.79.188,443,true,NRT,Asia Pacific,Tokyo,24 ms,207 kB/s
-140.238.212.95,443,true,MXP,Europe,Milan,26 ms,101 kB/s
-141.147.163.68,443,true,NRT,Asia Pacific,Tokyo,20 ms,9 kB/s
-129.146.243.241,443,true,LAX,North America,Los Angeles,23 ms,0 kB/s
-141.148.170.160,443,true,LAX,North America,Los Angeles,22 ms,0 kB/s
-152.70.88.98,443,true,ICN,Asia Pacific,Seoul,25 ms,0 kB/s
-152.70.155.147,443,true,LAX,North America,Los Angeles,25 ms,0 kB/s
-193.123.39.5,443,true,FRA,Europe,Frankfurt,19 ms,0 kB/s
-8.218.5.38,443,true,HKG,Asia Pacific,Hong Kong,21 ms,0 kB/s
-129.153.87.71,443,true,LAX,North America,Los Angeles,23 ms,0 kB/s
-138.2.227.94,443,true,SJC,North America,San Jose,20 ms,0 kB/s
-47.242.72.208,443,true,HKG,Asia Pacific,Hong Kong,20 ms,0 kB/s
+140.84.179.114,443,true,DFW,North America,Dallas,231 ms,6606 kB/s
+152.70.57.182,443,true,AMS,Europe,Amsterdam,244 ms,6323 kB/s
+129.150.50.63,443,true,SIN,Asia Pacific,Singapore,355 ms,6211 kB/s
+141.148.229.106,443,true,AMS,Europe,Amsterdam,248 ms,6168 kB/s
+158.180.228.226,443,true,MXP,Europe,Milan,320 ms,5800 kB/s
+152.67.65.201,443,true,ZRH,Europe,Zurich,269 ms,5789 kB/s
+141.144.197.111,443,true,AMS,Europe,Amsterdam,257 ms,5748 kB/s
+141.147.92.143,443,true,LHR,Europe,London,241 ms,5468 kB/s
+193.122.2.88,443,true,FRA,Europe,Frankfurt,258 ms,4615 kB/s
+150.230.238.226,443,true,BOM,Asia Pacific,Mumbai,363 ms,2420 kB/s
+141.144.233.28,443,true,FRA,Europe,Frankfurt,285 ms,1712 kB/s
+150.230.42.80,443,true,SJC,North America,San Jose,188 ms,1571 kB/s
+144.22.252.124,443,true,GRU,South America,S?o Paulo,372 ms,1302 kB/s
+129.151.254.48,443,true,MRS,Europe,Marseille,270 ms,1180 kB/s
+8.213.135.201,443,true,SJC,North America,San Jose,61 ms,850 kB/s
+47.89.182.61,443,true,SJC,North America,San Jose,260 ms,761 kB/s
+8.213.134.177,443,true,SJC,North America,San Jose,67 ms,752 kB/s
+129.153.203.62,443,true,LAX,North America,Los Angeles,201 ms,477 kB/s
+152.70.155.147,443,true,LAX,North America,Los Angeles,225 ms,426 kB/s
+192.9.140.43,443,true,SJC,North America,San Jose,177 ms,305 kB/s
+47.88.15.127,443,true,SJC,North America,San Jose,192 ms,235 kB/s
+152.69.162.101,443,true,SYD,Oceania,Sydney,348 ms,78 kB/s
+192.9.180.162,443,true,SYD,Oceania,Sydney,338 ms,35 kB/s
+158.101.126.221,443,true,IAD,North America,Ashburn,250 ms,3 kB/s
+150.136.216.115,443,true,IAD,North America,Ashburn,256 ms,3 kB/s
+168.138.13.201,443,true,MEL,Oceania,Melbourne,351 ms,2 kB/s
+129.153.87.71,443,true,LAX,North America,Los Angeles,213 ms,0 kB/s
+152.69.219.32,443,true,SIN,Asia Pacific,Singapore,322 ms,0 kB/s
+129.150.51.134,443,true,SIN,Asia Pacific,Singapore,322 ms,0 kB/s
+129.80.123.71,443,true,IAD,North America,Ashburn,273 ms,0 kB/s
+144.24.68.120,443,true,SIN,Asia Pacific,Singapore,262 ms,0 kB/s
+155.248.184.2,443,true,NRT,Asia Pacific,Tokyo,146 ms,0 kB/s
+150.230.7.216,443,true,KIX,Asia Pacific,Osaka,186 ms,0 kB/s
+152.67.231.219,443,true,SJC,North America,San Jose,214 ms,0 kB/s
+150.230.34.116,443,true,SJC,North America,San Jose,199 ms,0 kB/s
