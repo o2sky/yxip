@@ -1,20 +1,17 @@
 IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
-143.47.243.144,8443,true,LHR,Europe,London,244 ms,6512 kB/s
-141.144.198.113,8443,true,AMS,Europe,Amsterdam,250 ms,6105 kB/s
-141.148.242.113,8443,true,AMS,Europe,Amsterdam,245 ms,5935 kB/s
-129.151.225.228,8443,true,MRS,Europe,Marseille,275 ms,5922 kB/s
-140.83.60.81,8443,true,KIX,Asia Pacific,Osaka,182 ms,5897 kB/s
-129.159.132.0,8443,true,TLV,Middle East,Tel Aviv,287 ms,5518 kB/s
-138.2.36.157,8443,true,KIX,Asia Pacific,Osaka,184 ms,5009 kB/s
-129.154.254.254,8443,true,BOM,Asia Pacific,Mumbai,369 ms,4068 kB/s
-141.145.205.115,8443,true,CDG,Europe,Paris,272 ms,3895 kB/s
-158.101.215.45,8443,true,AMS,Europe,Amsterdam,256 ms,813 kB/s
-158.101.199.249,8443,true,AMS,Europe,Amsterdam,253 ms,651 kB/s
-141.147.16.152,8443,true,FRA,Europe,Frankfurt,268 ms,486 kB/s
-8.212.167.243,8443,true,SIN,Asia Pacific,Singapore,396 ms,364 kB/s
-204.216.105.106,8443,true,YYZ,North America,Toronto,273 ms,343 kB/s
-8.213.197.132,8443,true,SIN,Asia Pacific,Singapore,452 ms,246 kB/s
-152.70.155.147,8443,true,LAX,North America,Los Angeles,208 ms,142 kB/s
-129.158.198.241,8443,true,IAD,North America,Ashburn,249 ms,54 kB/s
-193.122.109.136,8443,true,ICN,Asia Pacific,Seoul,148 ms,44 kB/s
-144.24.169.81,8443,true,FRA,Europe,Frankfurt,271 ms,0 kB/s
+138.2.36.157,8443,true,KIX,Asia Pacific,Osaka,85 ms,18777 kB/s
+140.83.60.81,8443,true,KIX,Asia Pacific,Osaka,80 ms,10339 kB/s
+204.216.105.106,8443,true,YUL,North America,Montréal,1 ms,5897 kB/s
+141.145.205.115,8443,true,CDG,Europe,Paris,2 ms,5818 kB/s
+129.151.198.3,8443,true,ARN,Europe,Stockholm,2 ms,5268 kB/s
+141.147.61.116,8443,true,FRA,Europe,Frankfurt,2 ms,793 kB/s
+141.148.242.113,8443,true,AMS,Europe,Amsterdam,281 ms,562 kB/s
+158.101.199.249,8443,true,AMS,Europe,Amsterdam,1 ms,275 kB/s
+141.144.198.113,8443,true,AMS,Europe,Amsterdam,285 ms,256 kB/s
+143.47.243.144,8443,true,LHR,Europe,London,286 ms,226 kB/s
+129.159.132.0,8443,true,CDG,Europe,Paris,353 ms,216 kB/s
+132.145.54.84,8443,true,LHR,Europe,London,1 ms,179 kB/s
+129.158.198.241,8443,true,IAD,North America,Ashburn,1 ms,161 kB/s
+129.151.225.228,8443,true,MRS,Europe,Marseille,296 ms,152 kB/s
+130.162.250.180,8443,true,FRA,Europe,Frankfurt,1 ms,0 kB/s
+158.101.215.45,8443,true,AMS,Europe,Amsterdam,0 ms,0 kB/s

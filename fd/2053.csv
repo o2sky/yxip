@@ -1,9 +1,10 @@
 IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
-132.145.54.84,2053,true,LHR,Europe,London,1 ms,6023 kB/s
-141.144.198.113,2053,true,AMS,Europe,Amsterdam,262 ms,5769 kB/s
-130.61.203.115,2053,true,FRA,Europe,Frankfurt,1 ms,4073 kB/s
-143.47.243.144,2053,true,LHR,Europe,London,1 ms,710 kB/s
-144.24.169.81,2053,true,FRA,Europe,Frankfurt,0 ms,615 kB/s
-158.178.238.239,2053,true,SIN,Asia Pacific,Singapore,344 ms,256 kB/s
-129.151.225.228,2053,true,MRS,Europe,Marseille,1 ms,256 kB/s
-141.147.61.116,2053,true,FRA,Europe,Frankfurt,1 ms,93 kB/s
+129.158.198.241,2053,true,IAD,North America,Ashburn,1 ms,6601 kB/s
+129.151.198.3,2053,true,ARN,Europe,Stockholm,2 ms,6392 kB/s
+141.144.198.113,2053,true,AMS,Europe,Amsterdam,277 ms,5075 kB/s
+193.122.100.30,2053,true,ICN,Asia Pacific,Seoul,1 ms,581 kB/s
+130.61.203.115,2053,true,FRA,Europe,Frankfurt,1 ms,283 kB/s
+141.147.47.32,2053,true,FRA,Europe,Frankfurt,1 ms,188 kB/s
+144.24.169.81,2053,true,FRA,Europe,Frankfurt,1 ms,152 kB/s
+141.147.61.116,2053,true,FRA,Europe,Frankfurt,1 ms,152 kB/s
+143.47.243.144,2053,true,LHR,Europe,London,1 ms,91 kB/s
